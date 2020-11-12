@@ -1,0 +1,205 @@
+@import url("/template/css/pretty-checkbox.css");
+* {
+margin: 0;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+
+}
+h1,h2,h3,h4,h5{margin-top: 15px;}
+
+li{
+margin-bottom: 0.3em;
+}
+ul,ol{
+margin-top: 0.4em;
+}
+*[data-js]{cursor: pointer;}
+html,body { height: calc(100% - 10em); }
+body {
+    background: #8df488;
+    font-family: Tahoma, Verdana, Arial, sans-serif;
+    color: cadetblue;
+        }
+#logo_cd{
+    margin-bottom: 30px;
+}
+body.dark{
+background: #000000d6;
+}
+body.green{
+background: #92ff529c;
+}
+.footer {
+	padding-top: 0.3em;
+    height: 1.7em;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #660808;
+    color: white;
+    text-align: center;
+}
+.right,.left{ display: inline-block;}
+.right{float: right}
+.left{float: left}
+.left p:first-child{margin-left: 1em;}
+.left p:last-child{margin-right: 1em;}
+.footer p{
+	margin-right: 3em;
+    display: inline-block;
+    vertical-align: middle;
+    line-height: normal;
+}
+.right p:first-child{margin-right: 1em; font-family: monospace; font-size: medium;}
+
+@media only screen and (max-width: 620px) {
+.right{display:none;}
+.left{float: unset}
+}
+div.install{margin-top:0.2em; display: block;text-align: center;}
+h2.install{
+	margin: 0 auto;
+    border: 1px solid #0db196!important;
+    box-sizing: inherit;
+    max-width: max-content;
+    margin-top: 3em;
+    background: #247938;
+    padding: 7px;
+    border-radius: 8px;
+    color: #fdfdfd;
+	font-weight: 500;
+}
+.anyinlinebtn:hover,h2.settingbtn:hover {
+background: #0fb59c;
+}
+
+h2.install:hover {
+background: #2d9745;
+}
+h2.install span{color: bisque;}
+
+a{    color: #0380b4;}
+.notiable{
+max-width:600px;
+margin: 0 auto;
+}
+.notiable.contact{
+margin-top:18px;
+max-width:440px;
+margin: 0 auto;
+}
+
+code{color: tomato;}
+.main{margin-top:5em; display: block;padding-bottom: 300px;margin: 10px;}
+.notiable p,.notiable li{
+  color: dimgray;
+}
+.notiable h1,.notiable h2,.notiable h3,.notiable h4,.notiable h5{
+	margin-top:8px;
+    color: #063662;
+}
+
+.dark .notiable h1,.dark .notiable h2,.dark .notiable h3,.dark .notiable h4,.dark .notiable h5{
+ color:  #73ff74;
+}
+
+address{
+font-family: monospace; margin: 15px; color: darkblue;
+}
+
+p.btn{
+text-align: right;
+}
+p.btn.mr{
+margin-right: 30px;
+}
+input.btn{
+	color: #891d1d;
+    background-color: coral;
+    border-radius: 9px;
+    height: 27px;
+    width: 62px;
+    }
+.contact address{
+text-align: right;
+}
+	.anyinlinebtn,h2.settingbtn{
+	margin-top:1em !important;
+	margin: 0 auto;
+    border: 1px solid #0db196!important;
+    box-sizing: inherit;
+    max-width: 170px;
+    background: #247938;
+    padding: 7px;
+    border-radius: 8px;
+	margin-right: 5px;
+    color: #fdfdfd;
+	font-weight: 500;
+	    margin-left: 7px;
+	}
+	
+	
+	.mr{margin-left: 25px;}
+	.inlineblock{display: inline-block;}
+.listapplies span{
+margin-left:8px;
+color: #9c27b0;
+}
+.dark p{
+color:darkgrey;
+}
+.dark address{
+    color: #d6c08c;
+}
+.dark .notiable p,.dark .notiable li{
+color: #cdb394;
+}
+.dark .listapplies span{
+color:#e78937;
+}
+ .beautyborer{
+	min-width: 300px;
+    max-width: 600px;
+    margin: 0 auto;
+    margin-top: 20px;
+    border-radius: 8px;
+	border: 1px solid #9bdd64a8!important;
+    padding: 15px;
+    background: #e9efa8;
+    color: #87afd2;
+    padding-bottom: 45px;
+    padding-top: 12px;
+   }
+
+.dark .beautyborer{
+    border: 1px solid #23102da8!important;
+    padding: 15px;
+    background: #3a3a41;
+   }
+
+.optionlfj small,#lfj_option small{display: block; margin-left: 43px; color: darkkhaki;}
+.optionlfj{display: block; margin-top: 10px; /* border-top: 1px #fff dotted; */ margin-bottom: 10px; padding-top: 10px; padding-bottom: 10px; margin-left: 11px;}
+
+.privatelfj{min-width: 300px; max-width: 519px; margin: 0 auto; margin-top: 10px; border-radius: 16px; border: 1px solid #ffffff21!important; padding: 15px; background: #232c2aab;}
+
+#COUNTRYOPTION a{color: blanchedalmond;    margin-left: 7px;}
+#COUNTRYOPTION{color: #ff56f6;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
