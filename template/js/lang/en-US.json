@@ -47,6 +47,8 @@
 	"NO_TRAFFIC":"Anonymous traffic",
 	"NO_TRAFFICQ":"",
 	"NO_TRAFFIC_E":"Add <code>nofollow noopener noreferrer</code> into all hyperlink, modify <code>referrer-policy</code> header of all website's to hide your traffic across domains. You can  <a style=\"color:cyan;\"  target='_blank' href='https://duckduckgo.com/?q=nullrefer.com+What+is+my+referrer&t=h_&ia=web'>test referrer here</a>",
+	"GODMODE":"GodMode",
+	"GODMODE_E":"Allow hotkey [ALT+CAPS LOCK] to activate Godmode on a specified site, it's allow you to edit, copy, right-click, use context menu, text select(for copy), use devtools, debugging...",
 	"ANOTHEROPTION":"Another option",
 	"ANOTHEROPTION_E":"Want more feature ? <span style=\"color:cyan;\" onclick=\"lfi_fetch('contacts');\">contact us</span> for feature request. ",
 	"ADDMORE":"More...",

@@ -50,6 +50,8 @@
 	"NO_TRAFFIC_E":"将 <code>nofollow noopener noreferrer</code> 添加到所有超链接中，修改所有网站的 <code>referrer-policy</code> 标头以隐藏跨域的访问量, <a target='_blank' style=\"color:cyan;\"  href='https://duckduckgo.com/?q=nullrefer.com+What+is+my+referrer&t=h_&ia=web'>referrer检查</a>",
 	"ANOTHEROPTION":"另外一个选项",
 	"ANOTHEROPTION_E":"需要更多功能吗？<span style=\"color:cyan;\" onclick=\"lfi_fetch('contacts');\">联系我们</span>系以请求功能.",
+	"GODMODE":"GodMode",
+	"GODMODE_E":"允许热键[ALT+CAPS LOCK]在指定站点上激活Godmode，它允许您编辑，复制，右键单击，使用上下文菜单，选择文本（用于复制），使用devtools，调试...",
 	"COUNTRYOPTION":"",
 	"ADD_DOMAIN":"如果您喜欢的域名未列出, 单击<a style=\"color:cyan;\" onclick=\"lfi_fetch('contacts');\" data-js=\"contacts\">此链接</a>添加."
 
