@@ -53,6 +53,7 @@
 	"ANOTHEROPTION_E":"Want more feature ? <span style=\"color:cyan;\" onclick=\"lfi_fetch('contacts');\">contact us</span> for feature request. ",
 	"ADDMORE":"More...",
 	"COUNTRYOPTION":"",
+	"SITE_EXCLUDE":"LFJ not working at the banking and payment gateway sites, such as:",
 	"ADD_DOMAIN":"If your preferred name is not listed, just <a onclick=\"lfi_fetch('contacts');\" style=\"color:cyan;\"  data-js=\"contacts\">add them</a> to the list."
 
 

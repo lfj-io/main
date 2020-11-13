@@ -53,6 +53,7 @@
 	"GODMODE":"GodMode",
 	"GODMODE_E":"允许热键[ALT+CAPS LOCK]在指定站点上激活Godmode，它允许您编辑，复制，右键单击，使用上下文菜单，选择文本（用于复制），使用devtools，调试...",
 	"COUNTRYOPTION":"",
+	"SITE_EXCLUDE":"LFJ被排除在任何银行和支付网关站点之外，例如:",
 	"ADD_DOMAIN":"如果您喜欢的域名未列出, 单击<a style=\"color:cyan;\" onclick=\"lfi_fetch('contacts');\" data-js=\"contacts\">此链接</a>添加."
 
 
