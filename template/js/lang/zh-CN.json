@@ -56,7 +56,7 @@
 	"SITE_EXCLUDE":"LFJ被排除在任何银行和支付网关站点之外，例如:",
 	"WAITFOR_A":"等待",
 	"WAITFOR_B":"ms后下载窗口自动关闭。",
-	"WAITFOR_E":"设置LFJ等待提取下载URL的最大执行时间，后下载窗口自动关闭。 (的网速并不是很快时，意味着这将消耗更长的时间), 支持的网盘 <span style=\"color:cyan;\" onclick=\"lfi_fetch('work');\">列表</span> ...",
+	"WAITFOR_E":"设置LFJ等待提取下载URL的最大执行时间，后下载窗口自动关闭。 (的网速并不是很快时，意味着这将消耗更长的时间)。 LFJ支持的<span style=\"color:cyan;\" onclick=\"lfi_fetch('work');\">网盘列表</span> ...",
 	"ADD_DOMAIN":"如果您喜欢的域名未列出, 单击<a style=\"color:cyan;\" onclick=\"lfi_fetch('contacts');\" data-js=\"contacts\">此链接</a>添加."
 
 
