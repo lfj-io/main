@@ -53,7 +53,10 @@
 	"ANOTHEROPTION_E":"Want more feature ? <span style=\"color:cyan;\" onclick=\"lfi_fetch('contacts');\">contact us</span> for feature request. ",
 	"ADDMORE":"More...",
 	"COUNTRYOPTION":"",
-	"SITE_EXCLUDE":"LFJ is excluded from any bank and payment gateway sites, such as:",
+	"SITE_EXCLUDE":"LFJ not working at the banking and payment gateway sites, such as:",
+	"WAITFOR_A":"Wait download's tab for ",
+	"WAITFOR_B":"ms, then close.",
+	"WAITFOR_E":"Set maximum execution time LFJ wait for download url to fetched, then forced to close tab (slow connection need longer time to execute script), this settings work at supported file hosting, <span style=\"color:cyan;\" onclick=\"lfi_fetch('work');\">check list here</span> ...",
 	"ADD_DOMAIN":"If your preferred name is not listed, just <a onclick=\"lfi_fetch('contacts');\" style=\"color:cyan;\"  data-js=\"contacts\">add them</a> to the list."
 
 
