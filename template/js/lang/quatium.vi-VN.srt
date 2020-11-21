@@ -1,0 +1,3949 @@
+﻿1
+00:00:01,636 --> 00:00:03,236
+Ẩn dưới sự thật vẫn diễn ra hàng ngày
+
+2
+00:00:03,337 --> 00:00:06,139
+Là một thế giới đáng kinh ngạc
+
+3
+00:00:06,240 --> 00:00:10,243
+Nơi mà hầu hết những gì chúng ta biết về vũ trụ đều sai lầm
+
+4
+00:00:10,344 --> 00:00:14,214
+Các nhà vật lý và tác giả của các tác phẩm bán chạy nhất Brian Greene đưa bạn
+
+5
+00:00:14,315 --> 00:00:17,517
+đi trên một chuyến đi mà chính nó đã bẻ cong những quy luật mà loài người đã biết.
+
+6
+00:00:17,618 --> 00:00:20,554
+Brian Greene:
+Tại sao chúng ta không bao giờ thấy những sự kiện xảy ra ttheo thứ tự ngược lại?
+
+7
+00:00:20,655 --> 00:00:24,357
+Theo như những định luật của vật lý, thì điều đó là có thể
+
+8
+00:00:26,127 --> 00:00:28,461
+Nó là một thế giới chỉ xuất hiện
+
+9
+00:00:28,563 --> 00:00:31,998
+Khi chúng ta nghiên cứu về vương quốc khắc nghiệt nhất của vũ trụ
+
+10
+00:00:32,099 --> 00:00:35,068
+Từ hố đen cho tới Vụ Nổ Lớn
+
+11
+00:00:35,169 --> 00:00:37,037
+Tới thẳng tâm của vật chất
+
+12
+00:00:37,138 --> 00:00:38,905
+Tôi chuẩn bị có những gì ông ta đang có
+
+13
+00:00:39,006 --> 00:00:42,842
+Đây, một không gian trống rỗng chứa đầy những hành động tàn ác.
+
+14
+00:00:42,944 --> 00:00:46,546
+Một thế giới ba chiều có thể chỉ là một ảo giác,
+
+15
+00:00:46,647 --> 00:00:47,814
+Và chẳng có sự khác biệt nào
+
+16
+00:00:47,915 --> 00:00:51,284
+Giữa quá khứ, hiện tại và tương lai.
+
+17
+00:00:53,287 --> 00:00:55,288
+Greene:
+Nhưng làm sao có thể?
+
+18
+00:00:55,389 --> 00:00:59,092
+Làm sao mà chúng ta lại sai lầm như thế về những vấn đề đã quá quen thuộc?
+
+19
+00:00:59,193 --> 00:01:00,193
+Liệu nó có ảnh hưởng tới chúng ta không?
+
+20
+00:01:00,294 --> 00:01:00,927
+Chắc chắn rồi.
+
+21
+00:01:01,028 --> 00:01:02,362
+Không có nguyên lý nào
+
+22
+00:01:02,463 --> 00:01:04,464
+Xây dựng nên quy luật của tự nhiên
+
+23
+00:01:04,565 --> 00:01:08,568
+Điều đó nói lên rằng các nhà vật lý lý thuyết phải vui mừng.
+
+24
+00:01:08,669 --> 00:01:11,004
+Nó là một cách nhìn theo sự thay đổi của trò chơi
+
+25
+00:01:11,105 --> 00:01:14,107
+Chính nó đã mở ra khả năng xuất hiện một thế giới mới.
+
+25
+00:01:12,440 --> 00:01:13,974
+Trong phần tiếp theo
+
+26
+00:01:14,075 --> 00:01:18,178
+Thế giới của các nguyên tử nhỏ bé và các hạt vật chất: Thế Giới Lượng Tử
+
+27
+00:01:18,279 --> 00:01:20,313
+Tại đây dường như không thể tìm ra một quy luật nào
+
+28
+00:01:20,414 --> 00:01:24,150
+Mọi thứ luôn có xu hướng hỗn loạn
+
+29
+00:01:24,252 --> 00:01:25,252
+và không ở yên một chỗ
+
+30
+00:01:25,353 --> 00:01:30,056
+Nhưng lại tối quan trọng với mọi thứ trong vũ trụ
+
+31
+00:01:30,157 --> 00:01:32,192
+Không xảy ra bất cứ mâu thuẫn nào giữa cơ học lượng tử
+
+32
+00:01:32,293 --> 00:01:33,693
+và bất kì một thí nghiệm đã từng được tiến hành
+
+33
+00:01:33,794 --> 00:01:36,396
+Thế giới đó sẽ hé lộ cho ta điều gì về bản chất của tự nhiên
+
+34
+00:01:36,497 --> 00:01:39,366
+Hòa mình vào "Bước nhảy lượng tử" trên chương trình "Kết cấu vũ trụ"
+
+35
+00:01:39,467 --> 00:01:40,734
+kênh NOVA
+
+36
+00:01:41,050 --> 00:01:49,152
+Phụ đề tiếng Việt: Team-NASA
+E-mail: team-nasa@googlegroups.com
+
+37
+00:01:56,117 --> 00:01:59,219
+Nhà tài trợ chính cho Nova được cung cấp như sau:
+
+38
+00:02:05,760 --> 00:02:07,427
+Và…..
+
+39
+00:02:18,139 --> 00:02:22,242
+Và công ty phát thanh truyền thông công cộng
+
+40
+00:02:22,343 --> 00:02:25,312
+Và đóng góp cho đài SBS của bạn từ:
+
+41
+00:02:32,453 --> 00:02:35,088
+Tài trợ chính cho “ The Fabric of the Cosmos”
+
+42
+00:02:35,189 --> 00:02:37,991
+Được cung cấp bởi Quỹ Khoa Học quốc gia.
+
+43
+00:02:45,633 --> 00:02:47,801
+Và…
+
+44
+00:02:50,538 --> 00:02:53,206
+Hỗ trợ cho nghiên cứu ban đầu và để cho công chúng cùng hiểu biết
+
+45
+00:02:53,307 --> 00:02:59,412
+về khoa học, công nghệ, kĩ thuật và toán học
+
+46
+00:02:59,513 --> 00:03:01,581
+Hỗ trợ tài chính được cung cấp bởi…
+
+47
+00:03:35,049 --> 00:03:36,449
+GREENE:
+Trong suốt hàng ngàn năm
+
+48
+00:03:36,550 --> 00:03:38,118
+con người đã tìm cách giải mã
+
+49
+00:03:38,219 --> 00:03:41,721
+bí ẩn về sự vận hành của vũ trụ
+
+50
+00:03:41,822 --> 00:03:45,992
+và chúng ta đã khá thành công với một hệ thống các định luật
+
+51
+00:03:46,093 --> 00:03:48,661
+mô tả một cách rõ ràng và chính xác các chuyển động
+
+52
+00:03:48,763 --> 00:03:53,533
+của các thiên hà, các vì sao và các hành tinh
+
+53
+00:03:53,634 --> 00:03:57,570
+Nhưng hiện nay chúng ta đã biết, dù chỉ sơ sơ
+
+54
+00:03:57,671 --> 00:04:00,206
+rằng mọi thứ vẫn còn chưa sáng tỏ
+
+55
+00:04:00,307 --> 00:04:04,043
+bởi một hệ thống các định luật vật lý đột phá vừa mới được tìm ra
+
+56
+00:04:04,145 --> 00:04:07,347
+và thay đổi hoàn toàn bức tranh cũ về vũ trụ
+
+57
+00:04:09,049 --> 00:04:12,886
+Từ không gian ngoài vũ trụ, tới trung tâm thành phố New York
+
+58
+00:04:12,987 --> 00:04:14,788
+tới thế giới nguyên tử
+
+59
+00:04:14,889 --> 00:04:17,357
+cách nhìn của chúng ta đã chuyển sang một trang mới
+
+60
+00:04:17,458 --> 00:04:19,225
+nhờ những định luật kì lạ và bí ẩn này
+
+61
+00:04:19,326 --> 00:04:25,398
+những điều đang tái xây dựng lại hiểu biết của chúng ta về tự nhiên
+
+62
+00:04:25,499 --> 00:04:30,003
+Chúng là những định luật của Cơ học Lượng tử
+
+63
+00:04:30,104 --> 00:04:31,971
+Cơ học lượng tử nghiên cứu bao trùm lên mọi nguyên tử và các hạt cơ bản
+
+64
+00:04:32,072 --> 00:04:34,507
+trong mọi dạng vật chất
+
+65
+00:04:34,608 --> 00:04:36,843
+Trong các ngôi sao và các hành tinh
+
+66
+00:04:36,944 --> 00:04:38,845
+Các tảng đá, các tòa nhà
+
+67
+00:04:38,946 --> 00:04:41,080
+và cả trong cơ thể các bạn và tôi
+
+68
+00:04:41,182 --> 00:04:45,852
+Chúng ta không thể nhận thấy sự kì lạ của cơ học lượng tử
+
+69
+00:04:45,953 --> 00:04:48,054
+ngay trong cuộc sống hàng ngày này
+
+70
+00:04:48,155 --> 00:04:51,090
+nhưng nó luôn hiện diện, nếu ta biết cách nhìn cho đúng
+
+71
+00:04:51,192 --> 00:04:54,561
+Chỉ cần thay đổi góc nhìn
+
+72
+00:04:54,662 --> 00:04:57,664
+và thu nhỏ tới quy mô nhỏ nhất
+
+73
+00:04:57,765 --> 00:05:02,268
+ngang bằng với các hạt nguyên tử và những hạt cơ bản cấu thành
+
+74
+00:05:02,369 --> 00:05:05,305
+Ở quy mô lượng tử, các quy luật chi phối
+thế giới tí hon này
+
+75
+00:05:05,406 --> 00:05:08,107
+trở nên hoàn toàn khác thường
+
+76
+00:05:08,209 --> 00:05:10,610
+với những gì chi phối các vật thể có kích thước lớn hàng ngày
+
+77
+00:05:10,711 --> 00:05:13,046
+Và một khi chỉ cần liếc nhìn vào thế giới đó
+
+78
+00:05:13,147 --> 00:05:16,649
+thì bạn sẽ không thể nhìn thế giới hiện tại theo cách thông thường nữa
+
+79
+00:05:18,619 --> 00:05:22,722
+Thật sự không thể nào hình dung được những thứ kì quái
+
+80
+00:05:22,823 --> 00:05:24,858
+ta có thể gặp khi ở quy mô nhỏ nhất của vật chất này
+
+81
+00:05:30,631 --> 00:05:33,600
+Nhưng điều gì xảy ra nếu bạn có thể bước vào thế giới đó
+
+82
+00:05:33,701 --> 00:05:35,802
+nơi các quy luật lượng tự hiện diện rõ ràng
+
+83
+00:05:35,903 --> 00:05:41,007
+nơi con người và các sự vật cũng giống như những nguyên tử và hạt cơ bản
+
+84
+00:05:41,108 --> 00:05:44,911
+Chắc hẳn bạn sẽ được mãn nhãn
+
+85
+00:05:47,047 --> 00:05:49,983
+Tại đây, các sự vật tham gia vào những việc kì quặc
+
+86
+00:05:50,084 --> 00:05:52,285
+Tôi muốn nói rằng trong thế giới lượng tử
+
+87
+00:05:52,386 --> 00:05:56,789
+mọi thứ đều có xu hướng trở nên hỗn loạn
+
+88
+00:05:56,891 --> 00:05:58,558
+và không ở yên một chỗ
+
+89
+00:05:58,659 --> 00:06:01,561
+hay chỉ đi theo một lối duy nhất
+
+90
+00:06:04,532 --> 00:06:08,101
+Cứ như thể một vật có thể xuất hiện ở hai nơi tại cùng một thời điểm
+
+91
+00:06:15,376 --> 00:06:21,381
+Và những hành động của tôi tại nơi này có thể gây tác động tức thời tới một địa điểm khác
+
+92
+00:06:21,482 --> 00:06:24,350
+ngay của khi không có ai bên cạnh tôi
+
+93
+00:06:26,186 --> 00:06:29,155
+Và đây là điều kì lạ nhất
+
+94
+00:06:29,256 --> 00:06:33,526
+nếu mọi người đều tuân theo các quy luật như những hạt cơ bản bên trong các nguyên tử
+
+95
+00:06:33,627 --> 00:06:35,461
+thì phần lớn thời gian
+
+96
+00:06:35,563 --> 00:06:39,132
+bạn sẽ không thể biết chính xác mình đang ở đâu
+
+97
+00:06:39,233 --> 00:06:42,335
+Thay vào đó, một người có thể ở bất kì đâu
+
+98
+00:06:42,436 --> 00:06:44,504
+tới khi có ai đó đi tìm họ
+
+99
+00:06:44,605 --> 00:06:45,872
+Hey
+
+100
+00:06:45,973 --> 00:06:47,674
+Tôi muốn gọi thứ anh ta đang uống
+
+101
+00:06:49,577 --> 00:06:53,279
+Vậy tại sao chúng ta lại tin vào những quy luật kì quái như thế
+
+102
+00:06:53,380 --> 00:06:55,548
+Trong suốt 75 năm
+
+103
+00:06:55,649 --> 00:06:58,384
+chúng ta đã dùng các định luật này để tiên đoán
+
+104
+00:06:58,485 --> 00:07:01,654
+các tính chất của nguyên tử và các hạt cơ bản
+
+105
+00:07:01,755 --> 00:07:04,157
+Và qua rất nhiều thí nghiệm nối tiếp nhau
+
+106
+00:07:04,258 --> 00:07:07,760
+các quy luật lượng tử luôn được chứng minh đúng
+
+107
+00:07:12,900 --> 00:07:14,534
+Đó là lý thuyết tuyệt vời nhất mà chúng ta có
+
+108
+00:07:14,635 --> 00:07:17,070
+Thực tế có hàng tỷ mảnh nhỏ
+
+109
+00:07:17,171 --> 00:07:18,771
+tạo nên các bằng chứng thuyết phục tính đúng đắn của Cơ học Lượng tử
+
+110
+00:07:18,872 --> 00:07:24,177
+Lý thuyết này đã được qua rất nhiều cuộc kiểm tra và các dự đoán kì quái
+
+111
+00:07:24,278 --> 00:07:26,279
+Và vẫn không có mâu thuẫn nào giữa Cơ học Lượng tử
+
+112
+00:07:26,380 --> 00:07:28,948
+và bất kì một thí nghiệm đã từng được tiến hành
+
+113
+00:07:29,049 --> 00:07:31,618
+Các quy luật lượng tử hiện diện rõ nhất
+
+114
+00:07:31,719 --> 00:07:34,654
+khi ta thu nhỏ xuống quy mô nguyên tử
+
+115
+00:07:34,755 --> 00:07:35,955
+nhưng hãy nghĩ điều này
+
+116
+00:07:36,056 --> 00:07:37,590
+Tôi được cấu thành từ các nguyên tử
+
+117
+00:07:37,691 --> 00:07:39,192
+cũng như các bạn
+
+118
+00:07:39,293 --> 00:07:42,428
+hay tất cả mọi sự vật ta thấy trong thế giới hàng ngày
+
+119
+00:07:42,529 --> 00:07:45,531
+Vì vậy có nghĩa là các quy luật kì quái trong thế giới lượng tử
+
+120
+00:07:45,633 --> 00:07:49,002
+không chỉ giải thích cho những thứ tí hon
+
+121
+00:07:49,103 --> 00:07:51,804
+Chúng giải thích cho ta về toàn bộ tự nhiên
+
+122
+00:07:59,647 --> 00:08:01,080
+Nhưng làm thế nào chúng ta lại khám phá được
+
+123
+00:08:01,181 --> 00:08:03,883
+những quy luật kì quặc dường như còn mâu thuẫn
+
+124
+00:08:03,984 --> 00:08:06,686
+với phần lớn những gì chúng ta nghĩ là đã biết về vũ trụ
+
+125
+00:08:06,787 --> 00:08:12,058
+Cách đây không lâu, chúng ta đã nghĩ con người đã biết gần như tất cả
+
+126
+00:08:12,159 --> 00:08:17,430
+Các quy luật chi phối chuyển động của các hành tinh quanh Mặt trời
+
+127
+00:08:17,531 --> 00:08:22,769
+quy luật quỹ đạo của đường cong quả bóng vạch ra trong không gian
+
+128
+00:08:22,870 --> 00:08:30,109
+hay sự truyền chuyển động của các xoáy nước trên mặt hồ
+
+129
+00:08:30,210 --> 00:08:32,945
+Những định luật trên đều được biểu diễn dưới dạng chuỗi các phương trình
+
+130
+00:08:33,047 --> 00:08:35,348
+trong Cơ học Cổ điển
+
+131
+00:08:35,449 --> 00:08:37,483
+và chúng giúp ta tiên đoán
+
+132
+00:08:37,584 --> 00:08:40,720
+chuyển động của những sự vật trên một cách chính xác
+
+133
+00:08:40,821 --> 00:08:43,189
+Nó vẫn được cho là hoàn hảo
+
+134
+00:08:43,290 --> 00:08:45,491
+cho tới thời điểm cách đây 100 năm
+
+135
+00:08:45,592 --> 00:08:47,593
+khi các nhà khoa học đau đầu để giải thích
+
+136
+00:08:47,695 --> 00:08:51,230
+những đặc tính kì lạ của ánh sáng
+
+137
+00:08:54,068 --> 00:08:57,737
+Cụ thể là ánh sáng phát ra từ các khí
+
+138
+00:08:57,838 --> 00:09:01,040
+khi chúng bị nung nóng trong ống thủy tinh
+
+139
+00:09:01,141 --> 00:09:04,444
+Khi các nhà khoa học quan sát ánh sáng này qua một lăng kính
+
+140
+00:09:04,545 --> 00:09:09,082
+họ thấy một hiện tượng bất ngờ
+
+141
+00:09:09,183 --> 00:09:12,385
+PETER GALISON:
+Nếu ta nung nóng một loại khí nào đó và nhìn nó qua một lăng kính
+
+142
+00:09:12,486 --> 00:09:15,321
+nó tạo ra các vạch
+
+143
+00:09:15,422 --> 00:09:18,257
+Không phải những dải quang phổ liền mà ta thường thấy
+
+144
+00:09:18,358 --> 00:09:20,727
+qua những mảnh kính vỡ trên bàn
+
+145
+00:09:20,828 --> 00:09:23,896
+và những vạch sáng rời rạc
+
+146
+00:09:23,997 --> 00:09:25,732
+DAVID KAISER:
+Nó không phát thành một dải sáng
+
+147
+00:09:25,833 --> 00:09:27,233
+như một dải cầu vồng từ ánh sáng trắng
+
+148
+00:09:27,334 --> 00:09:30,403
+Mà cho chính ta những dải như các đường kẻ bút chì
+
+149
+00:09:30,504 --> 00:09:31,838
+với từng màu riêng biệt
+
+150
+00:09:31,939 --> 00:09:34,841
+GALISON:
+Và đó là một điều bí ẩn
+
+151
+00:09:34,942 --> 00:09:40,313
+việc hiểu được nguyên lý hiện tượng đang diễn ra
+
+152
+00:09:40,414 --> 00:09:43,449
+GREENE:
+Có một lời giải thích về hiện tượng các vạch sáng bí ẩn này
+
+153
+00:09:43,550 --> 00:09:46,119
+từ phía một nhóm các nhà khoa học cách tân
+
+154
+00:09:46,220 --> 00:09:49,422
+nhưững người ở đầu thế kỉ 20
+
+155
+00:09:49,523 --> 00:09:51,657
+đang hoàn thiện bức tranh cơ bản
+
+156
+00:09:51,759 --> 00:09:54,861
+về thế giới vật lý
+
+157
+00:09:54,962 --> 00:09:56,629
+Và một số khám phá quan trọng nhất
+
+158
+00:09:56,730 --> 00:09:59,198
+đến từ Niels Bohr
+
+159
+00:09:59,299 --> 00:10:03,936
+nhà vật lý với sở thích bàn luận các ý tưởng khi đánh bóng bàn
+
+160
+00:10:04,037 --> 00:10:07,440
+Bohr hoàn toàn tin tưởng rằng lời giải cho bí ẩn trên
+
+161
+00:10:07,541 --> 00:10:11,277
+nằm sâu trong bản chất của vật chất, từ cấu tạo nguyên tử
+
+162
+00:10:11,378 --> 00:10:14,313
+Ông nghĩ rằng các nguyên tử cấu tạo theo mô hình hệ mặt trời
+
+163
+00:10:14,414 --> 00:10:17,316
+với những hạt cơ bản nhỏ hơn nữa - các hạt electron
+
+164
+00:10:17,417 --> 00:10:19,285
+chuyển động quanh hạt nhân
+
+165
+00:10:19,386 --> 00:10:22,421
+giống như các hành tinh quay quanh mặt trời
+
+166
+00:10:22,523 --> 00:10:26,793
+Nhưng khác với hệ mặt trời, Bohr đề xuất rằng các hạt electron
+
+167
+00:10:26,894 --> 00:10:29,629
+không di chuyển theo quỹ đạo bất kì nào
+
+168
+00:10:29,730 --> 00:10:33,065
+Thay vào đó, chỉ một số quỹ đạo cố định
+
+169
+00:10:33,167 --> 00:10:35,468
+GALISON:
+Và đó là một ý tưởng
+
+170
+00:10:35,569 --> 00:10:38,237
+hoàn toàn mâu thuẫn với vật lý lý thuyết
+
+171
+00:10:38,338 --> 00:10:41,374
+bởi ông nói các electron chỉ ở những mức năng lượng nhất định
+
+172
+00:10:41,475 --> 00:10:43,976
+những quỹ đạo nhất định
+
+173
+00:10:44,077 --> 00:10:47,480
+và chỉ ở một trong những quỹ đạo đó thôi
+
+174
+00:10:47,581 --> 00:10:50,383
+GREENE:
+Bohr nói rằng khi một nguyên tử bị nung nóng
+
+175
+00:10:50,484 --> 00:10:53,386
+những hạt electron sẽ chuyển động nhanh hơn
+
+176
+00:10:53,487 --> 00:10:57,056
+và nhảy từ mức năng lượng này sang mức năng lượng khác
+
+177
+00:10:57,157 --> 00:11:01,160
+Mỗi bước nhảy xuống mức năng lượng thấp sẽ giải phóng ra năng lượng dưới dạng ánh sáng
+
+178
+00:11:01,261 --> 00:11:03,729
+với một bước sóng nhất định
+
+179
+00:11:03,831 --> 00:11:06,999
+và đấy là lý do các nguyên tử tạo ra những màu sắc riêng biệt
+
+180
+00:11:07,100 --> 00:11:11,170
+Chính vì thế mới có khái niệm "Bước nhảy lượng tử"
+
+181
+00:11:11,271 --> 00:11:13,372
+JIM GATES:
+Nếu không có bước nhảy lượng tử
+
+182
+00:11:13,473 --> 00:11:16,475
+ta sẽ thu được một dải sáng liền phát ra từ nguyên tử khí
+
+183
+00:11:16,577 --> 00:11:18,678
+tương ứng khi nó bị kích thích hoặc ngược lại
+
+184
+00:11:18,779 --> 00:11:20,379
+Nhưng kết quả thí nghiệm cho thấy điều khác
+
+185
+00:11:20,480 --> 00:11:23,249
+Chúng ta thấy những dải đỏ và xanh rất rõ ràng
+
+186
+00:11:23,350 --> 00:11:25,051
+Đó chính là bước nhảy lượng tử
+
+187
+00:11:25,152 --> 00:11:27,420
+là nguyên nhân tạo ra những vạch màu sắc nét đó
+
+188
+00:11:27,521 --> 00:11:31,891
+GREENE:
+Điều gì khiến bước nhảy lượng tử kì lạ như vậy
+
+189
+00:11:31,992 --> 00:11:35,828
+đó là việc các electron nhảy trực tiếp từ
+mức này sang mức khác
+
+190
+00:11:35,929 --> 00:11:40,433
+cứ như là không cần đi qua khoảng không gian giữa 2 mức
+
+191
+00:11:40,534 --> 00:11:45,238
+Như thể Sao Hỏa đột nhiên rời quỹ đạo
+
+192
+00:11:45,339 --> 00:11:48,574
+và nhảy sang quay cùng Sao Mộc
+
+193
+00:11:48,675 --> 00:11:52,144
+Bohr lập luận rằng bước nhảy mức năng lượng xuất phát từ một
+
+194
+00:11:52,246 --> 00:11:56,983
+tính chất cơ bản và kì quái của electron trong nguyên tử
+
+195
+00:11:57,084 --> 00:12:00,019
+rằng năng lượng của chúng tồn tại ở những mức riêng biệt
+
+196
+00:12:00,120 --> 00:12:02,221
+mà không thể nào chia nhỏ hơn nữa được
+
+197
+00:12:02,322 --> 00:12:05,758
+những đại lượng cực nhỏ nhưng có giá trị xác định đó gọi là "lượng tử" (quanta)
+
+198
+00:12:05,859 --> 00:12:09,495
+Đó là lý do chỉ tồn tại các quỹ đạo riêng biệt, rời rạc
+
+199
+00:12:09,596 --> 00:12:12,865
+của các electron
+
+200
+00:12:12,966 --> 00:12:16,569
+KAISER:
+Một electron phải ở các quỹ đạo nhất định
+
+201
+00:12:16,670 --> 00:12:18,838
+chứ không được ở bất kì vị trí nào giữa đó
+
+202
+00:12:18,939 --> 00:12:21,073
+Đó là một điều khác thường
+
+203
+00:12:21,174 --> 00:12:23,109
+Cứ nghĩ về cuộc sống hàng ngày
+
+204
+00:12:23,210 --> 00:12:26,245
+Khi ăn, bạn có bao giờ nghĩ thức mình chỉ ăn theo số lượng nhất định
+
+205
+00:12:26,346 --> 00:12:27,947
+Có bao giờ bạn phải
+
+206
+00:12:28,048 --> 00:12:30,716
+ăn một khối lượng thức ăn chính xác nhất định không?
+
+207
+00:12:30,817 --> 00:12:32,084
+Thức ăn không bị giới hạn về số lượng
+
+208
+00:12:32,185 --> 00:12:39,525
+Nhưng năng lượng của electron trong nguyên tử thì buộc phải tồn tại ở các mức xác định
+
+209
+00:12:39,626 --> 00:12:42,028
+Điều này thật bí ẩn
+
+210
+00:12:42,129 --> 00:12:44,397
+GREENE:
+Dù việc các hạt cơ bản nhỏ bé
+
+211
+00:12:44,498 --> 00:12:47,133
+tồn tại trong nguyên tử bí ẩn như thế nào
+
+212
+00:12:47,234 --> 00:12:50,202
+các bằng chứng nhanh chóng được tìm thấy, bảo vệ giả thiết của Bohr
+
+213
+00:12:50,304 --> 00:12:53,039
+Trong hàng loạt các thí nghiệm sau đó
+
+214
+00:12:53,140 --> 00:12:55,474
+các electron tuân theo một hệ thống các định luật vật lý
+
+215
+00:12:55,575 --> 00:12:58,344
+khắc hẳn vật lý cổ điển với các hành tinh và quả bóng
+
+216
+00:13:02,215 --> 00:13:04,951
+Khám phá của Bohr là một bước ngoặt
+
+217
+00:13:05,052 --> 00:13:09,956
+và với bức tranh mới về nguyên tử, Bohr và các đồng nghiệp
+
+218
+00:13:10,057 --> 00:13:12,291
+tự nhiên ở tình thế đối đầu
+
+219
+00:13:12,392 --> 00:13:15,094
+với các quy luật được vật lý cổ điển thừa nhận
+
+220
+00:13:15,195 --> 00:13:18,898
+Bước nhảy lượng tử chỉ là khởi đầu
+
+221
+00:13:18,999 --> 00:13:22,234
+Không lâu sau đó, giả thiết quá đột phá của Borh đã đưa ông vào cuộc đối đầu
+
+222
+00:13:22,336 --> 00:13:24,870
+với một trong những nhà vật lý vĩ đại nhất lịch sử
+
+223
+00:13:30,510 --> 00:13:35,114
+Albert Einstein không phải người hay sợ các giả thiết đột phá
+
+224
+00:13:35,215 --> 00:13:38,084
+Nhưng trong những năm 1920, quan điểm mới của cơ học lượng tử
+
+225
+00:13:38,185 --> 00:13:42,188
+bắt đầu chuyển lái theo hướng không theo ý của Einstein
+
+226
+00:13:42,289 --> 00:13:44,190
+theo hướng chuyển ngoặt từ
+
+227
+00:13:44,291 --> 00:13:47,193
+các phương trình tiên đoán chắc chắn
+
+228
+00:13:47,294 --> 00:13:50,496
+đã trở thành nền tảng của vật lý cổ điển
+
+229
+00:13:50,597 --> 00:13:54,500
+TEGMARK:
+Nếu ta hỏi Einstein hay bất cứ nhà vật lý
+nào thời điểm đó
+
+230
+00:13:54,601 --> 00:13:56,802
+rằng điều gì làm vật lý khác biệt
+
+231
+00:13:56,903 --> 00:13:58,904
+với các tiên đoán khác
+
+232
+00:13:59,006 --> 00:14:00,406
+họ đều nói
+
+233
+00:14:00,507 --> 00:14:03,943
+"Đó là việc nó có thể tiên đoán chính xác mọi việc"
+
+234
+00:14:04,044 --> 00:14:05,678
+Và cơ học lượng tử
+
+235
+00:14:05,779 --> 00:14:08,681
+dường như không đi theo quy luật này
+
+236
+00:14:08,782 --> 00:14:11,050
+GREENE:
+Một thì nghiệm trong số đó
+
+237
+00:14:11,151 --> 00:14:14,086
+sau nay được biết đến với cái tên thí nghiệm ”qua hai khe” (Young)
+
+238
+00:14:14,187 --> 00:14:17,590
+đã hé lộ bí mật về thế giới lượng tử một cách rõ ràng
+
+239
+00:14:17,691 --> 00:14:20,192
+Nếu bạn đang tìm kiếm một miêu tả rõ ràng về tự nhiên
+
+240
+00:14:20,293 --> 00:14:23,929
+một cách chắn chắn, thì bạn sẽ phải thất vọng sớm
+
+241
+00:14:29,870 --> 00:14:32,972
+Chúng ta có thể cảm thấy rất rõ ràng trong thí nghiệm “hai khe hẹp”
+
+242
+00:14:33,073 --> 00:14:35,775
+và thấy nó thay đổi bức tranh về tự nhiên như thế nào
+
+243
+00:14:35,876 --> 00:14:38,411
+qua việc thực hiện một thí nghiệm tương tự
+
+244
+00:14:38,512 --> 00:14:40,746
+không phải với các hạt cơ bản nhỏ bé
+
+245
+00:14:40,847 --> 00:14:43,482
+mà ở trên một quy mô lớn hơn với các vật thể bình thường
+
+246
+00:14:43,583 --> 00:14:46,752
+như những thứ ở trong sân chơi bowling này
+
+247
+00:14:46,853 --> 00:14:48,587
+Nhưng trước hết tôi cần
+
+248
+00:14:48,688 --> 00:14:51,090
+thay đổi sàn đấu này một chút
+
+249
+00:14:56,396 --> 00:14:58,397
+Bạn sẽ nghĩ rằng nếu tôi lăn bóng
+
+250
+00:14:58,498 --> 00:15:00,399
+xuống sàn
+
+251
+00:15:00,500 --> 00:15:02,868
+chúng hoặc sẽ bị cản bởi các thanh chắn
+
+252
+00:15:02,969 --> 00:15:05,037
+hoặc sẽ đi qua một trong 2 khe ở đây
+
+253
+00:15:05,138 --> 00:15:07,239
+và đâm thủng màn chắn ở phía sau
+
+254
+00:15:17,651 --> 00:15:19,919
+và đó là những gì đã xảy ra trong thực tế
+
+255
+00:15:20,020 --> 00:15:23,989
+những quả bóng đi qua khe luôn đâm vào màn chắn
+
+256
+00:15:24,091 --> 00:15:27,460
+dù là ở khe bên trái hay bên phải
+
+257
+00:15:27,561 --> 00:15:29,895
+thí nghiệm “hai khe hẹp” cũng khá giống như vậy
+
+258
+00:15:29,996 --> 00:15:32,965
+chỉ có điều thay vì những quả bóng bowling
+
+259
+00:15:33,066 --> 00:15:36,602
+chúng ta dùng electron - nhỏ hơn quả bowling hàng tỷ lần
+
+260
+00:15:38,038 --> 00:15:40,372
+Bạn có thể tưởng tượng như thế này
+
+261
+00:15:45,512 --> 00:15:48,814
+Thử quan sát xem điều gì diễn ra nếu ta ném các quả bóng
+
+262
+00:15:50,951 --> 00:15:55,254
+Khi các electron được dồn vào hai khe
+
+263
+00:15:55,355 --> 00:15:57,356
+một điều rất kì lạ diễn ra ở trên màn chắn
+
+264
+00:15:57,457 --> 00:16:00,726
+thay vì chỉ tập trung ở hai khu vực
+
+265
+00:16:00,827 --> 00:16:03,496
+các electron tập trung trải dài trên màn chắn
+
+266
+00:16:03,597 --> 00:16:06,165
+tạo nên một chuỗi các vạch
+
+267
+00:16:06,266 --> 00:16:09,435
+có cả các vạch nằm bên phải hai khe
+
+268
+00:16:09,536 --> 00:16:13,172
+nơi mà ta nghĩ đã bị chắn
+
+269
+00:16:13,273 --> 00:16:17,643
+Vậy điều gì đang diễn ra đây?
+
+270
+00:16:17,744 --> 00:16:20,379
+Với những nhà vật lý những năm 1920
+
+271
+00:16:20,480 --> 00:16:23,616
+những vạch dọc này chỉ có thể giải thích bằng một điều
+
+272
+00:16:23,717 --> 00:16:27,553
+Sóng
+
+273
+00:16:27,654 --> 00:16:29,522
+Sóng có các tính chất tương ứng có thể thực hiện điều thú vị trên
+
+274
+00:16:29,623 --> 00:16:33,392
+Hoàn toàn khác với quả bóng bowling
+
+275
+00:16:33,493 --> 00:16:35,294
+Sóng có thể bị phân chia
+
+276
+00:16:35,395 --> 00:16:37,763
+Có thể được tổng hợp
+
+277
+00:16:37,864 --> 00:16:40,599
+Nếu cho một sóng nước đi qua hai khe này
+
+278
+00:16:40,700 --> 00:16:42,668
+nó sẽ phân ra làm hai sóng riêng biệt
+
+279
+00:16:42,769 --> 00:16:45,871
+và hai nguồn sóng này sẽ giao thoa
+
+280
+00:16:45,972 --> 00:16:48,073
+Các biên cực đại và cực tiểu của chúng sẽ cộng hợp với nhau
+
+281
+00:16:48,175 --> 00:16:51,710
+và tạo thành giá trị lớn hơn hay nhỏ hơn tại các vị trí khác nhau
+
+282
+00:16:51,811 --> 00:16:56,515
+và trong một số trường hợp thì triệt tiêu lẫn nhau
+
+283
+00:16:56,616 --> 00:16:58,150
+Ở độ cao tương ứng với mặt nước
+
+284
+00:16:58,251 --> 00:17:00,519
+so sánh với độ sáng trên màn chắn
+
+285
+00:17:00,620 --> 00:17:04,323
+những điểm cực đại và cực tiểu sẽ tạo nên một chuỗi vạch dọc
+
+286
+00:17:04,424 --> 00:17:08,494
+được gọi là các dải giao thoa
+
+287
+00:17:08,595 --> 00:17:12,364
+Vậy làm thế nào mà các electron, các hạt cơ bản
+
+288
+00:17:12,465 --> 00:17:14,700
+có thể tạo thành cái dải trên?
+
+289
+00:17:14,801 --> 00:17:20,072
+Làm thế nào một eletron bất kì cuối cùng lại tập trung ở những nơi như với sóng nước
+
+290
+00:17:20,173 --> 00:17:21,373
+Hạt là hạt
+
+291
+00:17:21,474 --> 00:17:22,775
+Còn sóng là sóng
+
+292
+00:17:22,876 --> 00:17:25,244
+Làm sao chúng có thể giống nhau được
+
+293
+00:17:25,345 --> 00:17:27,413
+Trừ khi ta phủ nhận suy nghĩ rằng chúng chỉ là các hạt
+
+294
+00:17:27,514 --> 00:17:29,248
+Và rồi "Ơ-rê-ka"
+
+295
+00:17:29,349 --> 00:17:33,285
+Thứ mà ta nghĩ là hạt thực chất là một dạng sóng
+
+296
+00:17:33,386 --> 00:17:35,588
+Với sóng nước ở ngoài đại dương
+
+297
+00:17:35,689 --> 00:17:39,325
+thì đại dương làm từ các hạt
+
+298
+00:17:39,426 --> 00:17:41,860
+nhưng sóng ở đại dương không phải hạt
+
+299
+00:17:41,962 --> 00:17:47,032
+và đá không phải là sóng, đá chỉ là đá thôi
+
+300
+00:17:47,133 --> 00:17:48,834
+Vì thế đá là một ví dụ về hạt
+
+301
+00:17:48,935 --> 00:17:53,038
+và biển là một ví dụ về sóng
+
+302
+00:17:53,139 --> 00:17:56,976
+và giờ có người nói rằng đá giống như sóng biển
+
+303
+00:17:57,077 --> 00:17:58,177
+"Không thể nào!"
+
+304
+00:17:58,278 --> 00:18:00,212
+Trở lại những năm 1920
+
+305
+00:18:00,313 --> 00:18:02,514
+khi một thí nghiệm như vậy được diễn ra
+
+306
+00:18:02,616 --> 00:18:06,252
+các nhà khoa học đau đầu để giải thích hiện tượng
+
+307
+00:18:07,887 --> 00:18:11,323
+Một số nghĩ rằng nếu một electron đơn lẻ khi chuyển động
+
+308
+00:18:11,424 --> 00:18:14,460
+có thể trải dài ra như một loại sóng
+
+309
+00:18:14,561 --> 00:18:17,029
+Và nhà vật lý Erwin Schrödinger
+
+310
+00:18:17,130 --> 00:18:20,299
+đã tìm ra một phương trình dường như miêu tả được điều đó
+
+311
+00:18:20,400 --> 00:18:22,968
+STEVEN WEINBERG:
+Schrödinger nghĩ rằng loại sóng này
+
+312
+00:18:23,069 --> 00:18:26,338
+là mô tả rộng hơn của một electron
+
+313
+00:18:26,439 --> 00:18:28,240
+rằng bằng cách nào đó electron bị lan ra
+
+314
+00:18:28,341 --> 00:18:33,846
+và không còn là một chất điểm nữa, mà như một đám
+
+315
+00:18:33,947 --> 00:18:35,681
+Có nhiều lập luận trái chiều
+
+316
+00:18:35,782 --> 00:18:37,683
+về những gì hiện tượng này đã thực sự diễn ra
+
+317
+00:18:37,784 --> 00:18:41,287
+GREENE:
+Cuối cùng một nhà vật lý tên là Max Born
+
+318
+00:18:41,388 --> 00:18:43,956
+kết luận bằng một ý tưởng đột phá
+
+319
+00:18:44,057 --> 00:18:47,059
+về điều mà phương trình sóng diễn tả
+
+320
+00:18:47,160 --> 00:18:51,096
+Born cho rằng sóng không phải là các electron bị lan ra
+
+321
+00:18:51,197 --> 00:18:55,000
+hay tất cả những gì từng được ghi nhận trong khoa học
+
+322
+00:18:55,101 --> 00:18:57,436
+Thay vào đó, ông khẳng định rằng
+
+323
+00:18:57,537 --> 00:19:02,341
+đó là một điều rất kì quặc, một sóng xác suất
+
+324
+00:19:02,442 --> 00:19:07,446
+Tức là Born lập luận rằng độ lớn của sóng ở bất kì vị trí nào
+
+325
+00:19:07,547 --> 00:19:12,051
+cho biết khả năng tìm thấy một electron tại đấy
+
+326
+00:19:12,152 --> 00:19:14,853
+WEINBERG:
+Nơi sóng lớn
+
+327
+00:19:14,954 --> 00:19:17,089
+không phải nơi có nhiều electron nhất
+
+328
+00:19:17,190 --> 00:19:19,758
+mà là nơi electron có khả năng được tìm thấy lớn nhất
+
+329
+00:19:19,859 --> 00:19:21,727
+Điều đó thật lạ phải không
+
+330
+00:19:21,828 --> 00:19:24,997
+Như vậy electron hóa ra lại là một đống các xác suất
+
+331
+00:19:26,833 --> 00:19:28,667
+PETER FISHER:
+Bạn sẽ không được hỏi rằng
+
+332
+00:19:28,768 --> 00:19:32,171
+Hiện tại các electron đang ở đâu?
+
+333
+00:19:32,272 --> 00:19:35,774
+Bạn sẽ không được hỏi
+"Nếu giờ phải tìm một electron
+
+334
+00:19:35,875 --> 00:19:38,410
+ở vị trí xác định này trong không gian
+
+335
+00:19:38,511 --> 00:19:43,082
+thì xác suất tìm được là như thế nào"
+
+336
+00:19:43,183 --> 00:19:46,685
+Ý tôi muốn nói điều đó sẽ làm rối đầu bất kì ai
+
+337
+00:19:46,786 --> 00:19:48,987
+bởi nó thật kì quặc
+
+338
+00:19:49,089 --> 00:19:52,758
+cách mô tả mới về sự di chuyển của các hạt
+
+339
+00:19:52,859 --> 00:19:53,892
+hóa ra lại đúng
+
+340
+00:19:55,328 --> 00:19:57,696
+Khi tôi ném một electron
+
+341
+00:19:57,797 --> 00:20:00,933
+tôi không bao giờ dự đoán được nơi nó sẽ dừng lại
+
+342
+00:20:01,034 --> 00:20:02,868
+nhưng nếu tôi dùng phương trình của  Schrödinger
+
+343
+00:20:02,969 --> 00:20:04,937
+để tìm sóng xác suất của electron
+
+344
+00:20:05,038 --> 00:20:07,239
+Tôi có thể dự đoán với độ chính xác cao
+
+345
+00:20:07,340 --> 00:20:10,776
+rằng nếu tôi ném một lượng electron đủ lớn
+
+346
+00:20:10,877 --> 00:20:13,178
+ta có thể nói 33.1% sẽ tập trung ở đây
+
+347
+00:20:13,279 --> 00:20:17,916
+và 7.9% sẽ tập trung ở kia, vân vân
+
+348
+00:20:18,017 --> 00:20:19,485
+Kiểu dự đoán như thế này
+
+349
+00:20:19,586 --> 00:20:23,322
+được kiểm định nhiều lần qua các thí nghiệm
+
+350
+00:20:23,423 --> 00:20:25,624
+Và như thế, các phương trình của cơ học lượng tử
+
+351
+00:20:25,725 --> 00:20:29,395
+hóa ra lại chính xác một cách đáng ngạc nhiên
+
+352
+00:20:29,496 --> 00:20:33,766
+vì thế ta có thể thừa nhận rằng nó chỉ là một vấn đề về xác suất
+
+353
+00:20:36,403 --> 00:20:38,203
+Nếu bạn nghĩ rằng xác suất
+
+354
+00:20:38,304 --> 00:20:40,272
+là việc ta không phải đoán gì cả
+
+355
+00:20:40,373 --> 00:20:44,376
+thì bạn sẽ sai khi đến các sòng bạc ở Las Vegas
+
+356
+00:20:49,516 --> 00:20:51,717
+Thử bất kì trò may rủi nào ở đây
+
+357
+00:20:51,818 --> 00:20:53,252
+và bạn sẽ thấy sức mạnh của xác suất
+
+358
+00:20:58,124 --> 00:21:00,459
+Thử như tôi đặt 20 đô ở số 29
+
+359
+00:21:00,560 --> 00:21:03,061
+ở trên bàn quay này
+
+360
+00:21:08,601 --> 00:21:10,669
+Bên cái sẽ không biết tôi thắng hay thua trong vòng này
+
+361
+00:21:10,770 --> 00:21:13,205
+hay các vòng sau
+
+362
+00:21:13,306 --> 00:21:14,440
+Một
+
+363
+00:21:17,544 --> 00:21:20,379
+Nhưng họ biết xác suất tôi thắng
+
+364
+00:21:20,480 --> 00:21:22,448
+Trong trò chơi này có lần nó rơi vào 38
+
+365
+00:21:25,018 --> 00:21:25,984
+21
+
+366
+00:21:31,391 --> 00:21:32,658
+(chuông)
+
+367
+00:21:32,759 --> 00:21:33,826
+29
+
+368
+00:21:36,596 --> 00:21:39,231
+Vì vậy dù tôi có thể thắng vài lần, trong dài hạn
+
+369
+00:21:39,332 --> 00:21:43,302
+bên cái luôn lời nhiều hơn mất
+
+370
+00:21:43,403 --> 00:21:45,771
+Điều tôi muốn nói là bên cái không cần biết kết quả
+
+371
+00:21:45,872 --> 00:21:48,974
+của từng lượt chơi như thế nào
+
+372
+00:21:49,075 --> 00:21:51,210
+từ đánh bài, xúc xắc đến các vòng quay
+
+373
+00:21:51,311 --> 00:21:53,612
+Các sòng bạc vẫn rất chắc chắn rằng nhìn tổng thể
+
+374
+00:21:53,713 --> 00:21:59,651
+hàng ngàn vòng quay, lần đặt cược và lần xúc xắc, cuối cùng họ sẽ được lời
+
+375
+00:21:59,752 --> 00:22:02,955
+và có thể dự đoán chính xác
+
+376
+00:22:03,056 --> 00:22:05,858
+tần suất thắng như thế nào
+
+377
+00:22:05,959 --> 00:22:07,726
+Theo cơ học lượng tử
+
+378
+00:22:07,827 --> 00:22:12,498
+thì thế giới lượng tử cũng khá giống với một trò chơi may rủi như vậy
+
+379
+00:22:12,599 --> 00:22:14,533
+Tất cả các vật chất trong vũ trụ
+
+380
+00:22:14,634 --> 00:22:16,969
+đều cấu tạo từ các nguyên tử và các hạt
+
+381
+00:22:17,070 --> 00:22:20,939
+chịu ảnh hưởng của xác suất
+
+382
+00:22:21,040 --> 00:22:23,842
+EDWARD FARHI:
+Về cơ bản, tự nhiên được miêu tả
+
+383
+00:22:23,943 --> 00:22:26,144
+bằng một lý thuyết dựa trên xác suất
+
+384
+00:22:26,246 --> 00:22:28,947
+và điều đó thật phản khoa học
+
+385
+00:22:29,048 --> 00:22:32,818
+và là điều nhiều người sẽ khó lòng chấp nhận được
+
+386
+00:22:32,919 --> 00:22:37,122
+GREENE:
+Một trong số đó là Einstein
+
+387
+00:22:37,223 --> 00:22:40,459
+Einstein không thể tin rằng vấn đề cơ bản của tự nhiên
+
+388
+00:22:40,560 --> 00:22:45,197
+ở tầng thấp nhất, lại bị may rủi quyết định
+
+389
+00:22:45,298 --> 00:22:47,366
+Và đó là điều Einstein không bao giờ chấp nhận
+
+390
+00:22:47,467 --> 00:22:51,904
+Einstein nói rằng "Chúa không chơi trò xúc xắc"
+
+391
+00:22:52,005 --> 00:22:56,475
+Ông không coi trọng ý tưởng cho rằng ta không thể lập luận chắc chắn
+
+392
+00:22:56,576 --> 00:22:59,978
+rằng điều này sẽ hay không sẽ xảy ra
+
+393
+00:23:00,079 --> 00:23:01,480
+GREENE:
+Nhưng nhiều nhà vật lý khác
+
+394
+00:23:01,581 --> 00:23:03,715
+không hề cảm thấy điều này vô lý
+
+395
+00:23:03,816 --> 00:23:07,085
+bởi những phương trình của cơ học lượng tử
+
+396
+00:23:07,186 --> 00:23:09,488
+giúp họ dự đoán được các hiện tượng
+
+397
+00:23:09,589 --> 00:23:12,090
+xảy ra trong một nhóm các nguyên tử và các hạt
+
+398
+00:23:12,191 --> 00:23:14,960
+với độ chính xác đáng kinh ngạc
+
+399
+00:23:15,061 --> 00:23:17,396
+Và điều này sẽ dẫn đến
+
+400
+00:23:17,497 --> 00:23:19,665
+các phát minh lớn khác
+
+401
+00:23:19,766 --> 00:23:25,437
+Tia lase, tran-si-tor, bảng mạch điện tử
+
+402
+00:23:25,538 --> 00:23:29,408
+và toàn bộ các phát minh về điện tử
+
+403
+00:23:29,509 --> 00:23:32,878
+MAX TEGMARK:
+Nếu bỗng nhiên cơ học lượng tử ngừng hoạt động
+
+404
+00:23:32,979 --> 00:23:35,314
+tất cả các máy móc ở Mỹ, tất cả
+
+405
+00:23:35,415 --> 00:23:38,283
+sẽ ngừng hoạt động theo
+
+406
+00:23:38,384 --> 00:23:40,986
+GREENE:
+Các phương trình của cơ học lượng tử
+
+407
+00:23:41,087 --> 00:23:44,122
+giúp các kĩ sư thiết kế các công tắc siêu nhỏ
+
+408
+00:23:44,223 --> 00:23:47,392
+điều khiển dòng các electron nhỏ bé
+
+409
+00:23:47,493 --> 00:23:51,396
+và theo một cách nói, điều khiển mọi chiếc máy tính cá nhân ngày nay
+
+410
+00:23:51,497 --> 00:23:54,833
+đến các máy ảnh kĩ thuật số và điện thoại
+
+411
+00:23:54,934 --> 00:23:57,869
+ADAMS:
+Tất cả các thiết bị mà chúng ta phụ thuộc hàng ngày, các đi-ốt, tran-si-to,
+
+412
+00:23:57,971 --> 00:24:00,806
+những linh kiện cấu tạo nên nền tảng của công nghệ thông tin
+
+413
+00:24:00,907 --> 00:24:02,207
+nền tảng cuộc sống hàng ngày trong mọi lĩnh vực
+
+414
+00:24:02,308 --> 00:24:03,675
+Chúng hoạt động dựa vào cái gì?
+
+415
+00:24:03,776 --> 00:24:05,377
+Chỉ nhờ có cơ học lượng tử, chúng mới hoạt động được
+
+416
+00:24:05,478 --> 00:24:08,447
+WEINBERG:
+Tôi khẳng định rằng không có cơ học lượng tử
+
+417
+00:24:08,548 --> 00:24:12,718
+chúng ta sẽ trở lại những thời kì "đen tối", cụ thể hơn
+
+418
+00:24:12,819 --> 00:24:16,321
+là sẽ quay trở lại thế kỉ 19
+
+419
+00:24:16,422 --> 00:24:21,259
+Trở lại với động cơ hơi nước, tín hiệu điện báo
+
+420
+00:24:21,361 --> 00:24:24,630
+TEGMARK:
+Cơ học lượng tử là lý thuyết thành công nhất
+
+421
+00:24:24,731 --> 00:24:27,265
+mà các nhà vật lý như chúng ta đã khám phá ra
+
+422
+00:24:27,367 --> 00:24:29,968
+thế mà tới giờ chúng ta vẫn còn đang bàn cãi
+
+423
+00:24:30,069 --> 00:24:32,070
+về ý nghĩa thực sự của nó
+
+424
+00:24:32,171 --> 00:24:35,774
+về điều nó diễn tả về bản chất của tự nhiên
+
+425
+00:24:37,910 --> 00:24:39,578
+GREENE:
+Mặc cho tất cả những thành tựu đạt được
+
+426
+00:24:39,679 --> 00:24:42,914
+vật lý lượng tử vẫn
+rất bí ẩn.
+
+427
+00:24:43,016 --> 00:24:46,952
+Nó làm tất cả những thứ này hoạt động, nhưng chúng ta vẫn chưa thể trả lời được
+
+428
+00:24:47,053 --> 00:24:49,755
+câu hỏi cơ bản
+của Albert Einstein.
+
+429
+00:24:49,856 --> 00:24:52,924
+Quay trở lại
+những năm 1920 và 1930
+
+430
+00:24:53,026 --> 00:24:56,328
+câu hỏi liên quan tới xác suất
+và sự đo lường
+
+431
+00:24:56,429 --> 00:24:58,296
+cũng như việc quan sát.
+
+432
+00:24:59,899 --> 00:25:04,736
+Đối với Bohr, việc khảo sát
+thay đổi mọi thứ.
+
+433
+00:25:04,837 --> 00:25:08,674
+Ông tin rằng trước khi bạn
+quan sát hay khảo sát một hạt
+
+434
+00:25:08,775 --> 00:25:11,543
+thì chưa chắc chắn một điều gì
+về tính chất của nó.
+
+435
+00:25:11,644 --> 00:25:15,614
+Ví dụ, một hạt electron
+trong thí ngiệm với hai khe hẹp.
+
+436
+00:25:15,715 --> 00:25:18,984
+trước khi tấm chắn phía sau
+chỉ ra vị trí của các electron khi đập vào nó
+
+437
+00:25:19,085 --> 00:25:21,386
+thì các electron có thể ở bất cứ đâu
+
+438
+00:25:21,487 --> 00:25:24,189
+với rất nhiều khả năng
+có thể xảy ra.
+
+439
+00:25:24,290 --> 00:25:29,094
+Chỉ đến khi bạn nhìn thấy
+và duy nhất tại điểm đó
+
+440
+00:25:29,195 --> 00:25:31,963
+ta mới chắc chắn về vị trí của nó
+
+441
+00:25:34,500 --> 00:25:36,935
+Theo giả thuyết của Bohr về
+vật lý lượng tử
+
+442
+00:25:37,036 --> 00:25:39,137
+khi bạn khảo sát một hạt
+
+443
+00:25:39,238 --> 00:25:42,374
+việc khảo sát sẽ buộc các hạt
+từ bỏ
+
+444
+00:25:42,475 --> 00:25:45,510
+tất cả những nơi chúng có thể
+ở
+
+445
+00:25:45,611 --> 00:25:49,481
+và chọn một vị trí xác định, nơi
+mà bạn tìm thấy nó.
+
+446
+00:25:49,582 --> 00:25:52,484
+Chính việc khảo sát đã
+ép buộc các hạt phải
+
+447
+00:25:52,585 --> 00:25:54,319
+lựa chọn.
+
+448
+00:25:54,420 --> 00:25:58,390
+Niels Bohr chấp nhận rằng bản chất của tự nhiên
+
+449
+00:25:58,491 --> 00:26:00,559
+vốn không rõ ràng
+
+450
+00:26:00,660 --> 00:26:02,728
+Nhưng Einstein thì khác.
+
+451
+00:26:02,829 --> 00:26:04,362
+Ông tin vào sự chắc chắn
+
+452
+00:26:04,464 --> 00:26:07,099
+không phải chỉ khi một vật đã
+được khảo sát hay nhìn thấy
+
+453
+00:26:07,200 --> 00:26:10,602
+mà là mọi lúc.
+
+454
+00:26:10,703 --> 00:26:14,506
+Giống như Einstein đã nói "Tôi thích
+suy nghĩ về mặt trăng ở kia,
+
+455
+00:26:14,607 --> 00:26:17,008
+ngay cả khi tôi không nhìn vào
+nó".
+
+456
+00:26:18,711 --> 00:26:21,279
+Đó là điều mà Einstein
+lo lắng.
+
+457
+00:26:21,380 --> 00:26:23,348
+Bạn có nghĩ rằng thực trạng của
+vũ trụ phụ thuộc
+
+458
+00:26:23,449 --> 00:26:25,050
+vào việc chúng ta có ngẫu nhiên
+mở mắt hay không ?
+
+459
+00:26:25,151 --> 00:26:26,485
+Điều đó thật kỳ lạ.
+
+460
+00:26:26,586 --> 00:26:31,256
+GREEN:
+Einstein tin rằng thuyết lượng tử
+đã thiếu một điều gì đó,
+
+461
+00:26:31,357 --> 00:26:33,091
+điều mà có thể mô tả
+
+462
+00:26:33,192 --> 00:26:36,995
+tất cả những đặc điểm chi tiết của
+các hạt, như vị trí của chúng
+
+463
+00:26:37,096 --> 00:26:40,398
+ngay cả khi bạn không nhìn
+vào nó.
+
+464
+00:26:40,500 --> 00:26:43,034
+Nhưng ở thời điểm đó, ít nhà vật lý
+chia sẻ với mối quan tâm của ông ấy.
+
+465
+00:26:43,136 --> 00:26:45,036
+KAISER:
+Và Einstein  đã nghĩ rằng
+nó sẽ trở nên vô vọng
+
+466
+00:26:45,138 --> 00:26:47,606
+với các nhà vật lý.
+
+467
+00:26:47,707 --> 00:26:50,776
+Nó không phải là một lý thuyết vật lý tồi
+mà chỉ là chưa hoàn thiện.
+
+468
+00:26:50,877 --> 00:26:52,310
+Đó là điệp khúc của Einstein.
+
+469
+00:26:52,411 --> 00:26:56,081
+Lý thuyết lượng tử không phải là
+không đúng, nó đã đi được rất xa
+
+470
+00:26:56,182 --> 00:26:57,849
+so với khi nó bắt đầu,
+nhưng nó vẫn chưa hoàn thiện.
+
+471
+00:26:57,950 --> 00:26:59,684
+Nó không nắm bắt được
+tất cả mọi thứ
+
+472
+00:26:59,786 --> 00:27:02,554
+có thể nói hoặc dự báo
+với sự chắc  chắn.
+
+473
+00:27:02,655 --> 00:27:07,626
+GREENE:
+Mặc cho những tranh luận của Einstein,
+Niels Bohr vẫn không thay đổi ý kiến.
+
+474
+00:27:07,727 --> 00:27:12,330
+Khi Einstein lặp lại câu
+"Chúa không chơi trò xúc sắc"
+
+475
+00:27:12,431 --> 00:27:16,468
+Bohr phản bác
+"Đừng bảo Chúa phải làm gì"
+
+476
+00:27:20,439 --> 00:27:22,607
+Nhưng vào năm 1935, Einstein
+nghĩ ông ấy cuối cùng đã tìm ra
+
+477
+00:27:22,708 --> 00:27:25,110
+gót chân Asin
+của lý thuyết lượng tử.
+
+478
+00:27:25,211 --> 00:27:27,345
+
+
+479
+00:27:27,446 --> 00:27:29,614
+Điều gì đó rất lạ
+
+480
+00:27:29,715 --> 00:27:32,217
+rất mâu thuẫn với tất cả những điều hợp lý
+về vụ trụ,
+
+481
+00:27:32,318 --> 00:27:34,753
+ông nghĩ nó cầm giữ chiếc chìa khóa
+
+482
+00:27:34,854 --> 00:27:38,156
+để chứng minh lý thuyết vẫn
+chưa hoàn thiện.
+
+483
+00:27:38,257 --> 00:27:42,127
+Nó được gọi là “sự liên đới"
+
+484
+00:27:42,228 --> 00:27:43,962
+LEWIN:
+Tiên đoán kì lạ nhất,
+
+485
+00:27:44,063 --> 00:27:50,669
+vô lý nhất, điên khùng nhất,
+lố bịch nhất
+
+486
+00:27:50,770 --> 00:27:54,906
+về lý thuyết lượng tử là
+"Liên đới lượng tử"
+
+487
+00:27:55,007 --> 00:27:59,411
+GREENE:
+Liên đới lượng tử là một dự đoán
+lý thuyết
+
+488
+00:27:59,512 --> 00:28:03,281
+bắt nguồn từ các phương trình
+của lý thuyết lượng tử.
+
+489
+00:28:03,382 --> 00:28:05,851
+Khi hai hạt liên đới lượng tử với nhau
+
+490
+00:28:05,952 --> 00:28:10,222
+nếu chúng ở gần nhau và
+những thuộc tính kết nối với nhau.
+
+491
+00:28:10,323 --> 00:28:12,157
+Đáng nói là,
+lý thuyết lượng tử còn tiên đoán
+
+492
+00:28:12,258 --> 00:28:14,092
+cho dù bạn tách xa
+hai hạt này
+
+493
+00:28:14,193 --> 00:28:15,927
+mang chúng theo
+các hướng ngược nhau
+
+494
+00:28:16,028 --> 00:28:21,066
+chúng vẫn duy trì sự liên đới,
+không dứt ra được.
+
+495
+00:28:21,167 --> 00:28:24,502
+Để hiểu điều này kỳ lạ
+như thế nào,
+
+496
+00:28:24,604 --> 00:28:28,273
+hãy để ý đến một thuộc tính của electron
+gọi là "spin"
+
+497
+00:28:28,374 --> 00:28:30,408
+
+
+498
+00:28:30,509 --> 00:28:33,345
+Không giống những con quay,
+spin của một electron
+
+499
+00:28:33,446 --> 00:28:35,447
+giống như các tính chất của lượng tử khác,
+
+500
+00:28:35,548 --> 00:28:38,950
+rất mờ ảo và không chắc chắn
+
+501
+00:28:39,051 --> 00:28:42,387
+cho đến khi bạn đo lường nó.
+
+502
+00:28:42,488 --> 00:28:44,256
+Và khi bạn thực hiện, bạn sẽ thấy
+
+503
+00:28:44,357 --> 00:28:49,427
+nó hoặc là quay theo chiều kim đồng hồ
+hoặc là quay theo chiều ngược kim đồng hồ.
+
+504
+00:28:49,528 --> 00:28:51,997
+Nó giống kiểu chiếc đĩa xoay này.
+
+505
+00:28:52,098 --> 00:28:53,798
+Khi nó dừng quay,
+
+506
+00:28:53,900 --> 00:28:56,534
+Nó sẽ ngẫu nhiên dừng lại ở
+ô đỏ hoặc ô xanh.
+
+507
+00:29:01,574 --> 00:29:04,175
+Bây giờ, hãy tưởng tượng một chiếc đĩa xoay thứ hai
+
+508
+00:29:04,277 --> 00:29:09,114
+Nếu hai chiếc đĩa này hoạt động
+giống như hai electron có liên đới
+
+509
+00:29:09,215 --> 00:29:12,751
+thì mỗi khi một chiếc dừng lại ở ô đỏ
+
+510
+00:29:12,852 --> 00:29:16,922
+chiếc kia chắc chắn sẽ dừng lại
+ở ô xanh.
+
+511
+00:29:17,023 --> 00:29:19,391
+và ngược lại.
+
+512
+00:29:19,492 --> 00:29:21,893
+Lúc này, khi hai chiếc đĩa không
+kết nối với nhau,
+
+513
+00:29:21,994 --> 00:29:24,462
+điều nói ở trên thật đáng nghi ngờ
+
+514
+00:29:24,563 --> 00:29:26,064
+Nhưng lý thuyết lượng tử đưa ra
+bởi Bohr và
+
+515
+00:29:26,165 --> 00:29:28,500
+các đồng nghiệp
+thậm chí còn đi xa hơn nữa,
+
+516
+00:29:28,601 --> 00:29:33,238
+nó dự đoán rằng nếu như một trong
+hai chiếc ở rất xa
+
+517
+00:29:33,339 --> 00:29:38,543
+thậm chí là trên mặt trăng, không có dây dẫn hoặc thiết bị phát sóng nào kết nối chúng,
+
+518
+00:29:38,644 --> 00:29:41,947
+thì khi bạn nhìn vào một chiếc và thấy màu đỏ
+
+519
+00:29:42,048 --> 00:29:45,650
+thì chiếc kia chắc chắn sẽ là màu xanh.
+
+520
+00:29:45,751 --> 00:29:49,754
+Nói cách khác, nếu bạn khảo sát
+một hạt ở đây,
+
+521
+00:29:49,855 --> 00:29:51,823
+thì bạn không chỉ ảnh hưởng đến nó
+
+522
+00:29:51,924 --> 00:29:55,093
+mà việc khảo sát của bạn cũng
+ảnh hưởng đến hạt được kết đôi
+
+523
+00:29:55,194 --> 00:29:57,796
+cho dù chúng cách xa nhau thế nào.
+
+524
+00:29:57,897 --> 00:30:01,299
+Đối với Einstein, kiểu kết nối xa
+kỳ lạ này
+
+525
+00:30:01,400 --> 00:30:05,203
+giữa hai chiếc đĩa quay hay
+giữa hai hạt thật là phi lý.
+
+526
+00:30:05,304 --> 00:30:10,241
+Ông gọi nó là kỳ quái
+"hành động kỳ quái ở khoảng cách xa"
+
+527
+00:30:10,343 --> 00:30:13,812
+Điều ngạc nhiên là
+khi bạn tiến hành khảo sát
+
+528
+00:30:13,913 --> 00:30:17,549
+một hạt, bạn tác động
+tới trạng thái của hạt kia.
+
+529
+00:30:17,650 --> 00:30:19,084
+Bạn thay đổi trạng thái của nó.
+
+530
+00:30:19,185 --> 00:30:22,187
+Không có một lực hay một ròng rọc
+hay, bạn biết đấy, dây dẫn nào
+
+531
+00:30:22,288 --> 00:30:24,155
+Không có bất cứ thứ gì kết nối
+chúng.
+
+532
+00:30:24,256 --> 00:30:25,757
+Làm thế nào mà quyết định của tôi ở đây
+
+533
+00:30:25,858 --> 00:30:27,359
+lại có sự ảnh hưởng nào đó
+tới những thứ xảy ra ở kia ?
+
+534
+00:30:27,460 --> 00:30:32,530
+Chúng không có cách nào để
+liên lạc với nhau.
+
+535
+00:30:32,631 --> 00:30:35,467
+Vì vậy, điều đó thật sự kỳ lạ.
+
+536
+00:30:35,568 --> 00:30:41,673
+GREENE:
+Einstein không thể chấp nhận mối liên hệ phức tạp hoạt động theo cách này.
+
+537
+00:30:41,774 --> 00:30:46,044
+mà tự thuyết phục mình rằng chỉ là các phép tính mới vớ vẩn, chứ không phải là thực tế.
+
+538
+00:30:46,145 --> 00:30:48,947
+Ông đồng tình rằng có thể tồn tại các hạt
+có mối liên hệ
+
+539
+00:30:49,048 --> 00:30:52,017
+nhưng ông nghĩ sẽ có một cách
+giải thích đơn giản hơn
+
+540
+00:30:52,118 --> 00:30:54,452
+cho việc chúng được kết nối
+mà không liên quan gì
+
+541
+00:30:54,253 --> 00:30:56,588
+đến sự liên hệ ở khoảng cách xa
+bí ẩn.
+
+542
+00:30:56,589 --> 00:30:59,691
+Thay vì đó, ông quả quyết rằng
+các hạt có mối liên hệ phức tạp
+
+543
+00:30:59,792 --> 00:31:02,728
+giống như một đôi găng tay hơn.
+
+544
+00:31:06,265 --> 00:31:08,467
+Tưởng tượng rằng  ai đó tách rời
+hai chiếc găng tay,
+
+545
+00:31:08,568 --> 00:31:10,268
+bỏ từng chiếc vào một cái hòm.
+
+546
+00:31:16,142 --> 00:31:18,643
+Sau đó, người đó mang
+một cái đến chỗ tôi,
+
+547
+00:31:18,745 --> 00:31:21,880
+và mang chiếc còn lại
+
+548
+00:31:21,981 --> 00:31:22,814
+tới Nam cực.
+
+549
+00:31:28,788 --> 00:31:30,255
+Cảm ơn.
+
+550
+00:31:30,356 --> 00:31:33,191
+Trước khi tôi nhìn vào cái hòm của tôi
+Tôi biết rằng nó có thể chứa
+
+551
+00:31:33,292 --> 00:31:35,727
+chiếc trái hoặc chiếc phải.
+
+552
+00:31:35,828 --> 00:31:39,765
+Và khi tôi mở hòm ra,
+nếu tôi thấy chiếc trái
+
+553
+00:31:39,866 --> 00:31:42,868
+thì ngay lúc đó,
+tôi biết cái hòm ở Nam Cực
+
+554
+00:31:42,969 --> 00:31:45,003
+chắc chắn chứa chiếc găng tay bên phải,
+
+555
+00:31:45,104 --> 00:31:49,207
+cho dù không ai từng nhìn vào trong cái hòm.
+
+556
+00:31:49,308 --> 00:31:52,544
+Không có gì là bí ẩn về điều này
+
+557
+00:31:52,645 --> 00:31:54,546
+Rõ ràng, việc nhìn vào
+bên trong một cái hòm
+
+558
+00:31:54,647 --> 00:31:57,249
+không tác động gì tới bất kỳ chiếc nào.
+
+559
+00:31:57,350 --> 00:31:58,750
+Cái hòm này luôn luôn chứa
+chiếc găng tay bên trái,
+
+560
+00:31:58,851 --> 00:32:00,218
+và cái ở Nam cực
+
+561
+00:32:00,319 --> 00:32:02,554
+luôn chứa
+chiếc găng tay phải.
+
+562
+00:32:02,655 --> 00:32:04,122
+Điều đó đã được định đoạt kể từ lúc
+
+563
+00:32:04,223 --> 00:32:06,625
+đôi găng tay bị chia cắt
+và mang đi xa nhau.
+
+564
+00:32:06,726 --> 00:32:10,228
+Einstein cho rằng
+nguyên lý hoàn toàn tương tự
+
+565
+00:32:10,329 --> 00:32:12,564
+cũng được áp dụng cho hai hạt có mối liên hệ phức tạp.
+
+566
+00:32:12,665 --> 00:32:14,900
+Cách thiết lập trạng thái của các
+electron như thế nào
+
+567
+00:32:15,001 --> 00:32:16,835
+được quyết định hoàn toàn
+
+568
+00:32:16,936 --> 00:32:18,904
+vào lúc
+chúng tách xa nhau.
+
+569
+00:32:19,005 --> 00:32:21,940
+Vậy thì ai đúng ?
+
+570
+00:32:22,041 --> 00:32:24,843
+Bohr, người bảo vệ
+các phép tính chỉ ra rằng
+
+571
+00:32:24,944 --> 00:32:27,045
+những hạt kia giống như
+hai chiếc đĩa quay,
+
+572
+00:32:27,146 --> 00:32:29,181
+có thể kết nối ngay lập tức
+những trạng thái ngẫu nhiên của chúng
+
+573
+00:32:29,282 --> 00:32:31,817
+cho dù ở những khoảng cách vô cùng lớn ?
+
+574
+00:32:31,918 --> 00:32:35,954
+hay Einstein, người tin rằng không có
+kết nối kỳ quái nào cả,
+
+575
+00:32:36,055 --> 00:32:38,490
+thay vì vậy, mọi thứ đã được
+quyết định hết
+
+576
+00:32:38,591 --> 00:32:43,195
+trước khi bạn nhìn vào chúng ?
+
+577
+00:32:43,296 --> 00:32:45,597
+Thử thách lớn trong việc
+xác minh xem ai đúng
+
+578
+00:32:45,698 --> 00:32:48,400
+Bohr hay Einstein,
+là việc Einstein nói
+
+579
+00:32:48,501 --> 00:32:52,671
+một hạt có một spin xác định
+trước khi bạn khảo sát chúng.
+
+580
+00:32:52,772 --> 00:32:55,373
+Bạn có thể đặt câu hỏi:
+Làm thế nào để kiểm chứng điều đó
+
+581
+00:32:55,474 --> 00:32:56,775
+Ông ấy trả lời "Ồ, hãy khảo sát chúng
+
+582
+00:32:56,876 --> 00:32:58,977
+và bạn sẽ thấy spin xác định đó"
+
+583
+00:32:59,078 --> 00:33:01,346
+Bohr lại nói "nhưng việc
+khảo sát đó
+
+584
+00:33:01,447 --> 00:33:03,582
+sẽ làm cho spin
+có một trạng thái xác định."
+
+585
+00:33:03,683 --> 00:33:07,252
+Không ai biết làm thế nào để giải quyết
+vấn đề,
+
+586
+00:33:07,353 --> 00:33:10,255
+vì vậy toàn bộ câu hỏi lại được xem xét như là một vấn đề triết học,
+
+587
+00:33:10,356 --> 00:33:12,958
+chứ không phải là khoa học.
+
+588
+00:33:13,059 --> 00:33:19,431
+Cho đến khi mất vào năm 1955, Einstein
+vẫn tin tưởng rằng lý thuyết lượng tử
+
+589
+00:33:19,532 --> 00:33:24,035
+vẫn chỉ đưa ra một bức tranh chưa đầy đủ
+về thực tế.
+
+590
+00:33:30,009 --> 00:33:33,445
+Năm 1967, tại trường đại học Columbia,
+
+591
+00:33:33,546 --> 00:33:36,948
+Nhiệm vụ phản bác lại
+lý thuyết lượng tử còn tiên đoán
+
+592
+00:33:37,049 --> 00:33:39,317
+được tiếp nối bởi một người ban đầu không chủ ý theo đuổi việc đó.
+
+593
+00:33:39,418 --> 00:33:45,423
+John Clauser lúc đó đang nghiên cứu
+để lấy bằng tiến sỹ vật lý thiên văn.
+
+594
+00:33:45,524 --> 00:33:47,125
+Điều duy nhất cản trở ông
+
+595
+00:33:47,226 --> 00:33:49,261
+là điểm số của ông
+ở môn lý thuyết lượng tử.
+
+596
+00:33:49,362 --> 00:33:53,531
+Khi tôi vẫn đang là một sinh viên
+mới tốt nghiệp, cho dù đã cố,
+
+597
+00:33:53,633 --> 00:33:56,468
+tôi vẫn chưa thể hiểu được
+lý thuyết lượng tử.
+
+598
+00:34:04,076 --> 00:34:06,378
+Clauser nghi ngờ sự đúng đắn
+của Einstein
+
+599
+00:34:06,479 --> 00:34:09,047
+khi ông ấy tìm thấy
+một phát hiện để đời,
+
+600
+00:34:09,148 --> 00:34:11,182
+Đó là một bài nghiên cứu ít người biết đến
+
+601
+00:34:11,284 --> 00:34:16,554
+của một nhà vật lý ít tiếng tăm người Ai len
+tên John Bell.
+
+602
+00:34:16,656 --> 00:34:19,024
+Thật ngạc nhiên, Bell dường như
+đã tìm ra cách
+
+603
+00:34:19,125 --> 00:34:21,593
+giải quyết tranh cãi
+giữa Einstein và Bohr,
+
+604
+00:34:21,694 --> 00:34:25,997
+và cuối cùng chỉ ra
+
+605
+00:34:26,098 --> 00:34:28,500
+ai đã đúng về Vũ trụ.
+
+606
+00:34:28,601 --> 00:34:31,736
+Tôi từng tin rằng
+lý thuyết lượng tử
+
+607
+00:34:31,837 --> 00:34:33,672
+có thể đã sai.
+
+608
+00:34:33,773 --> 00:34:36,074
+Đọc bài nghiên cứu,
+
+609
+00:34:36,175 --> 00:34:38,843
+Clauser thấy rằng Bell
+đã phát hiện ra
+
+610
+00:34:38,945 --> 00:34:41,212
+cách để kiểm chứng,
+các hạt có mối liên hệ phức tạp
+
+611
+00:34:41,314 --> 00:34:43,448
+thật sự liên lạc bằng
+cách thức kỳ quái
+
+612
+00:34:43,549 --> 00:34:46,484
+giống như hai chiếc đĩa quay
+
+613
+00:34:46,585 --> 00:34:49,654
+hay chẳng có điều gì kỳ quái hết cả
+
+614
+00:34:49,755 --> 00:34:52,490
+và các hạt vốn đã được sắp đặt
+theo cách riêng của chúng,
+
+615
+00:34:52,591 --> 00:34:54,793
+giống như một đôi găng tay.
+
+616
+00:34:54,894 --> 00:34:57,595
+Với một số  phép tính
+thông minh
+
+617
+00:34:57,697 --> 00:35:01,099
+Bell chỉ ra rằng nếu mối liên hệ kỳ quái
+không hoạt động,
+
+618
+00:35:00,200 --> 00:35:03,069
+thì lý thuyết lượng tử
+không chỉ chưa hoàn thiện,
+
+619
+00:35:03,170 --> 00:35:04,904
+giống như Einstein nghĩ
+
+620
+00:35:05,005 --> 00:35:08,307
+mà nó sẽ sai.
+
+621
+00:35:08,408 --> 00:35:10,643
+Tôi đi đến kết luận rằng,
+"Lạy chúa,
+
+622
+00:35:10,744 --> 00:35:13,713
+đây là một trong những nghiên cứu
+uyên thâm nhất tôi từng được biết"
+
+623
+00:35:13,814 --> 00:35:15,948
+GREENE:
+Bell chỉ là một nhà vật lý lý thuyết.
+
+624
+00:35:16,049 --> 00:35:19,318
+Nhưng bài nghiên cứu của ông ấy còn chỉ ra câu hỏi có thể được quyết định
+
+625
+00:35:19,419 --> 00:35:21,387
+nếu bạn có thể làm ra một chiếc máy
+
+626
+00:35:21,488 --> 00:35:27,026
+có thể tạo ra và so sánh nhiều
+cặp hạt có mối liên hệ.
+
+627
+00:35:27,127 --> 00:35:30,796
+Bell chuyển hướng câu hỏi
+sang một vấn đề về thực nghiệm.
+
+628
+00:35:30,897 --> 00:35:32,565
+Nó không chỉ là vấn đề triết học,
+
+629
+00:35:32,666 --> 00:35:34,133
+hay tiêu tốn nhiều giấy mực.
+
+630
+00:35:34,234 --> 00:35:37,770
+Và thí nghiệm mà ông mường tượng tới
+đã được thực hiện.
+
+631
+00:35:37,871 --> 00:35:39,505
+Bạn có thể thực sự tiến hành
+một thí nghiệm thực tế
+
+632
+00:35:39,606 --> 00:35:40,973
+để giải quyết vấn đề này.
+
+633
+00:35:41,074 --> 00:35:44,910
+GREENE:
+Clauser đã bắt đầu xây dựng một cỗ máy
+
+634
+00:35:45,012 --> 00:35:47,813
+mà sau này đã giải quyết được mâu thuẫn trên
+
+635
+00:35:47,914 --> 00:35:50,249
+JOHN CLAUSER:
+Lúc đó tôi chỉ là một cậu sinh viên sau đại học trẻ trung
+
+636
+00:35:50,350 --> 00:35:53,886
+Và thành công lúc đó thì như thể: "Wow"
+
+637
+00:35:53,987 --> 00:35:55,454
+Luôn luôn có một cơ hội nhỏ nào đó
+
+638
+00:35:55,555 --> 00:36:00,626
+rằng một ngày bạn sẽ có một khám phá gây chấn động cả thế giới
+
+639
+00:36:12,672 --> 00:36:13,973
+GREENE:
+Cỗ máy của Clauser đã đo
+
+640
+00:36:14,074 --> 00:36:16,709
+hàng ngàn cặp các hạt liên đới
+
+641
+00:36:16,810 --> 00:36:20,579
+và so sánh spin của chúng theo nhiều hướng
+
+642
+00:36:23,917 --> 00:36:27,019
+Khi kết quả cuối cùng sắp hoàn thiện
+
+643
+00:36:27,120 --> 00:36:31,023
+Clauser hóa ra lại ngạc nhiên và không vui vẻ
+
+644
+00:36:31,124 --> 00:36:35,027
+Tôi liên tục tự hỏi mình "Mình đã làm gì sai?"
+
+645
+00:36:35,128 --> 00:36:37,730
+"Chắc hẳn phải mắc lỗi nào đó"
+
+646
+00:36:37,831 --> 00:36:41,801
+GREENE:
+Clauser lặp đi lặp lại thí nghiệm của mình và sau đó
+
+647
+00:36:41,902 --> 00:36:44,036
+Nhà vật lý người Pháp Alain Aspect
+
+648
+00:36:44,137 --> 00:36:46,272
+cũng bắt đầu thực hiện chuỗi thí nghiệm tương tự
+
+649
+00:36:46,373 --> 00:36:48,808
+Aspect cũng đạt được cùng một kết quả
+
+650
+00:36:52,679 --> 00:36:56,215
+GREENE:
+Kết quả thí nghiệm của Clauser và Aspect thực sự gây sốc
+
+651
+00:36:56,316 --> 00:36:58,451
+Cho dù nó đi ngược lại những gì chúng ta vẫn quan niệm
+
+652
+00:36:58,552 --> 00:37:02,188
+họ đã chúng minh phương trình toán học trong cơ học lượng tử hoàn toàn đúng
+
+653
+00:37:02,289 --> 00:37:05,324
+Sự liên đới là có thật
+
+654
+00:37:05,425 --> 00:37:08,027
+Các hạt lượng tử có thể được kết nối xuyên không gian
+
+655
+00:37:08,128 --> 00:37:11,097
+Việc đo đạc một hạt bất kì, trong thực tế
+
+656
+00:37:11,198 --> 00:37:12,698
+có thể gây ảnh hưởng trực tiếp tới hạt liên đới ở nơi khác
+
+657
+00:37:12,799 --> 00:37:16,469
+như thể không còn khoảng cách về không gian giữa chúng nữa
+
+658
+00:37:16,570 --> 00:37:19,305
+Điều mà Einstein nghĩ là bất khả thi
+
+659
+00:37:19,406 --> 00:37:24,543
+và kì quặc với một khoảng cách về không gian như vậy, hóa ra lại đúng
+
+660
+00:37:24,644 --> 00:37:28,948
+Một lần nữa tôi lại bị thất vọng
+
+661
+00:37:29,049 --> 00:37:31,117
+vì mình đã không lật đổ hoàn toàn được cơ học lượng tử
+
+662
+00:37:31,218 --> 00:37:34,353
+bởi cho tới giờ
+
+663
+00:37:34,454 --> 00:37:36,722
+tôi vẫn gặp khó khăn trong việc hiểu môn đó
+
+664
+00:37:36,823 --> 00:37:41,961
+Đây là điều kì quặc nhất trong cơ học lượng tử
+
+665
+00:37:42,062 --> 00:37:44,964
+Thậm chí việc hiểu nó thôi cũng là bất khả thi
+
+666
+00:37:45,065 --> 00:37:47,166
+Đừng hỏi tại sao
+
+667
+00:37:47,267 --> 00:37:49,969
+Đừng hỏi làm thế nào nó vận hành được
+
+668
+00:37:50,070 --> 00:37:52,505
+bởi câu hỏi đó không được phép xảy ra
+
+669
+00:37:52,606 --> 00:37:54,306
+Tất cả những gì ta có thể nói
+
+670
+00:37:54,407 --> 00:37:58,144
+là thừa nhận hiển nhiên đó là cách thế giới hoạt động
+
+671
+00:37:58,245 --> 00:38:01,814
+GREENE:
+Vậy nếu ta chấp nhận rằng
+
+672
+00:38:01,915 --> 00:38:05,050
+thế giới hoạt động theo cách kì quặc này
+
+673
+00:38:05,152 --> 00:38:06,552
+Liệu chúng ta có thể ứng dụng
+
+674
+00:38:06,653 --> 00:38:09,088
+hiện tượng kì quái ở khoảng cách xa của sự liên đới
+
+675
+00:38:09,189 --> 00:38:11,557
+vào điều gì đó thực tế không?
+
+676
+00:38:11,658 --> 00:38:14,026
+Một trong số các kì vọng
+
+677
+00:38:14,127 --> 00:38:16,195
+là việc bằng cách nào đó di chuyển người và vật
+
+678
+00:38:16,296 --> 00:38:18,063
+từ nơi này sang nơi khác
+
+679
+00:38:18,165 --> 00:38:20,366
+mà không cần băng qua khoảng không gian ở giữa
+
+680
+00:38:20,467 --> 00:38:22,935
+Nói cách khác: Dịch chuyển tức thời
+
+681
+00:38:23,036 --> 00:38:23,903
+"Đã ở trong khoang dịch chuyển"
+
+682
+00:38:24,004 --> 00:38:24,937
+"Nạp năng lượng"
+
+683
+00:38:25,038 --> 00:38:27,439
+"Đang nạp năng lượng"
+
+684
+00:38:27,541 --> 00:38:30,409
+GREENE:
+Các từ như "beaming" hay dịch chuyển tức thời, đã xuất hiện trong phim Star Trek
+
+685
+00:38:30,510 --> 00:38:32,311
+và có vẻ nó khá tiện lợi
+
+686
+00:38:32,412 --> 00:38:34,313
+Điều đó dường như chỉ là khoa học viễn tưởng
+
+687
+00:38:34,414 --> 00:38:36,115
+nhưng liệu sự liên đới có thể khiến nó diễn ra
+
+688
+00:38:41,321 --> 00:38:43,389
+Thật đáng chú ý là các cuộc thí nghiệm đã được thử
+
+689
+00:38:43,490 --> 00:38:48,127
+tại đây, trên đảo Canary ở ngoài khơi châu Phi
+
+690
+00:38:48,228 --> 00:38:52,998
+ANTON ZEILINGER:
+Chúng ta tiến hành thì nghiệm ở trên đảo Canary
+
+691
+00:38:53,099 --> 00:38:55,901
+bởi có hai đài quan sát ở đây
+
+692
+00:38:56,002 --> 00:38:57,469
+và trên hết, môi trường ở đây rất tuyệt
+
+693
+00:39:03,710 --> 00:39:06,478
+GREENE:
+Ngay cả Anton Zeilinger cũng còn lâu mới tự dịch chuyển tức thời được
+
+694
+00:39:06,580 --> 00:39:10,216
+hay bất cứ người nào khác
+
+695
+00:39:10,317 --> 00:39:12,918
+nhưng ông đang cố sử dụng liên đới lượng tử
+
+696
+00:39:13,019 --> 00:39:17,223
+để dịch chuyển các hạt nhỏ bé
+
+697
+00:39:17,324 --> 00:39:19,892
+trong trường hợp này là hạt photon - lượng tử ánh sáng
+
+698
+00:39:19,993 --> 00:39:24,863
+Ông bắt đầu từ việc tạo ra một cặp các photon đã được liên đới
+
+699
+00:39:24,965 --> 00:39:29,702
+trong một phòng thí nghiệm trên đảo La Palma
+
+700
+00:39:29,803 --> 00:39:32,204
+Một hạt photon trong đó được giữ lại tại đảo La Palma
+
+701
+00:39:32,305 --> 00:39:34,773
+hạt photon còn lại được chuyển bằng tia laser
+
+702
+00:39:34,874 --> 00:39:37,977
+tới đảo Tenerife cách đó 143 km
+
+703
+00:39:42,649 --> 00:39:44,250
+Giờ, Zeilinger đem đến một photon thứ ba
+
+704
+00:39:44,351 --> 00:39:46,485
+photon mà ông định cho dịch chuyển tức thời
+
+705
+00:39:46,586 --> 00:39:49,488
+và cho nó tiếp xúc với photon tại La Palma
+
+706
+00:39:51,958 --> 00:39:53,525
+Nhóm nghiên cứu theo dõi sự tiếp xúc này
+
+707
+00:39:53,627 --> 00:39:56,395
+so sánh trạng thái lượng tử của hai hạt
+
+708
+00:39:56,496 --> 00:39:58,497
+và đây là phần đáng ngạc nhiên nhất
+
+709
+00:39:58,598 --> 00:40:00,699
+dựa vào kết nối kì lạ kia
+
+710
+00:40:00,800 --> 00:40:03,235
+Zeilinger có thể sử dụng so sánh
+
+711
+00:40:03,336 --> 00:40:07,740
+để biến đổi photon được liên đới trên hòn đảo còn lại
+
+712
+00:40:07,841 --> 00:40:10,309
+trở thành một nhân bản khác của photon thứ 3
+
+713
+00:40:10,410 --> 00:40:13,812
+Cứ như thể photon thứ 3 đã dịch chuyển tức thời xuyên đại dương
+
+714
+00:40:13,913 --> 00:40:17,783
+mà không cần băng qua khoảng không gian ở giữa
+
+715
+00:40:21,187 --> 00:40:23,389
+Có thể nói chúng ta thu thập dữ liệu
+
+716
+00:40:23,490 --> 00:40:25,391
+nắm giữ trong photon gốc
+
+717
+00:40:25,492 --> 00:40:27,826
+và tạo nên một photon gốc mới ở đây
+
+718
+00:40:27,927 --> 00:40:30,362
+GREENE:
+Sử dụng phương pháp này
+
+719
+00:40:30,463 --> 00:40:34,400
+Zeilinger đã dịch chuyển tức thời thành công rất nhiều hạt
+
+720
+00:40:40,473 --> 00:40:42,241
+Nhưng liệu kết quả này có thể đi xa hơn
+
+721
+00:40:42,342 --> 00:40:43,676
+Bởi cơ thể chúng ta tạo ra từ các hạt
+
+722
+00:40:43,777 --> 00:40:48,881
+liệu quy trình này có thể dịch chuyển tức thời con người trong tương lai?
+
+723
+00:40:57,424 --> 00:41:00,159
+HƯỚNG DẪN VIÊN:
+Chào mừng bạn tới New York
+
+724
+00:41:00,260 --> 00:41:03,028
+Giả sử tôi muốn tới Paris để ăn trưa
+
+725
+00:41:03,129 --> 00:41:04,630
+Thì theo lý thuyết
+
+726
+00:41:04,731 --> 00:41:07,533
+sự liên đới, một ngày nào đó, có thể làm điều này khả thi
+
+727
+00:41:07,634 --> 00:41:11,837
+Tôi chỉ cần một thứ: một phòng chứa các hạt đặt tại New York
+
+728
+00:41:11,938 --> 00:41:14,373
+liên đới lượng tử với một phòng chứa hạt khác tại Paris
+
+729
+00:41:18,144 --> 00:41:19,812
+Xin mời ông theo lối này
+
+730
+00:41:23,049 --> 00:41:24,616
+GREENE:
+Tôi sẽ bước vào một khoang
+
+731
+00:41:24,718 --> 00:41:27,019
+hoạt động như một máy chiếu hay máy fax
+
+732
+00:41:29,889 --> 00:41:33,092
+Trong lúc thiết bị này quét lượng khổng lồ các hạt trong cơ thể tôi
+
+733
+00:41:33,193 --> 00:41:34,960
+số lượng các hạt nhiều hơn cả tổng số các ngôi sao
+
+734
+00:41:35,061 --> 00:41:36,862
+trong vũ trụ mà chúng ta thấy được
+
+735
+00:41:36,963 --> 00:41:40,299
+Thì cùng lúc nó cũng đang quét các hạt ở phòng chưa bên Paris
+
+736
+00:41:40,400 --> 00:41:44,570
+và tạo một danh mục để so sánh trạng thái lượng tử
+
+737
+00:41:44,671 --> 00:41:46,505
+của từng cặp các hạt
+
+738
+00:41:46,606 --> 00:41:51,543
+và giờ là lúc sự liên đới đóng vai trò
+
+739
+00:41:51,644 --> 00:41:53,679
+do có hiện tượng kì quái ở khoảng cách xa của nó
+
+740
+00:41:53,780 --> 00:41:57,015
+mà danh mục này cho thấy trạng thái ban đầu của các hạt
+
+741
+00:41:57,117 --> 00:42:00,886
+và so sánh với các hạt được liên đới bên Paris
+
+742
+00:42:02,722 --> 00:42:05,624
+Tiếp theo, cỗ máy điều hành gửi danh mục này tới Paris
+
+743
+00:00:00,000 --> 00:00:00,001
+00:42:07,025 --> 00:42:08,559
+Tại đó họ sử dụng thông tin nhận được
+
+744
+00:42:07,360 --> 00:42:09,795
+để tái tạo lại chính xác trạng thái lượng tử
+
+745
+00:42:09,896 --> 00:42:13,232
+của từng hạt cấu tạo nên cơ thể tôi
+
+746
+00:42:13,333 --> 00:42:15,434
+và tạo nên một "tôi" khác bằng xương bằng thịt
+
+747
+00:42:15,535 --> 00:42:21,006
+Không phải các hạt dịch chuyển từ New York sang Paris
+
+748
+00:42:21,107 --> 00:42:23,242
+mà sự liên đới đã giúp trạng thái lượng tử của tôi
+
+749
+00:42:23,343 --> 00:42:28,213
+được ghi lại ở New York và tái tạo lại ở Paris
+
+750
+00:42:28,314 --> 00:42:32,518
+từng hạt, từng hạt một
+
+751
+00:42:32,619 --> 00:42:35,220
+
+
+752
+00:42:40,226 --> 00:42:41,260
+Bonjour
+
+753
+00:42:41,361 --> 00:42:42,561
+Chào cô
+
+754
+00:42:42,662 --> 00:42:46,532
+Giờ tôi đang ở Paris, và là một tôi được nhân bản
+
+755
+00:42:46,633 --> 00:42:50,869
+Và tôi ở New York kia thì, tốt hơn hết, do việc khảo sát trạng thái lượng tử
+
+756
+00:42:50,970 --> 00:42:55,908
+tất cả các hạt của tôi ở New York đã bị triệt tiêu
+
+757
+00:42:56,009 --> 00:42:59,711
+FARHI:
+Đây là điều tuyệt đối bắt buộc trong cổng dịch chuyển tức thời
+
+758
+00:42:59,813 --> 00:43:03,115
+Rằng vật được dịch chuyển
+
+759
+00:43:03,216 --> 00:43:05,617
+phải bị triệt tiêu trong quá trình dịch chuyển
+
+760
+00:43:05,718 --> 00:43:08,787
+Và bạn biết đấy, điều này khiến bất cứ ai cũng lo lắng
+
+761
+00:43:08,888 --> 00:43:11,824
+Tôi nghĩ nếu tự dưng sau khi dịch chuyển bạn trở thành một đống lộn xộn
+
+762
+00:43:11,925 --> 00:43:16,695
+các hạt nơ-tron, proton và electron
+
+763
+00:43:16,796 --> 00:43:18,564
+chắc lúc đó bạn sẽ không được xinh xắn cho lắm
+
+764
+00:43:18,665 --> 00:43:22,601
+Giờ chúng ta vẫn còn một chặng đường dài để đi tới việc dịch chuyển tức thời con người
+
+765
+00:43:22,702 --> 00:43:25,370
+nhưng khả năng khả thi của nó đã đặt ra một câu hỏi
+
+766
+00:43:25,472 --> 00:43:28,974
+liệu tôi - Brian Greene - ở Paris có thực sự là tôi
+
+767
+00:43:29,075 --> 00:43:31,109
+Có thể không hề có khác biệt nào
+
+768
+00:43:31,211 --> 00:43:35,614
+giữa "tôi" cũ ở New York và "tôi" mới ở Paris
+
+769
+00:43:35,715 --> 00:43:37,850
+và nguyên nhân là, theo cơ học lượng tử
+
+770
+00:43:37,951 --> 00:43:42,154
+không phải các hạt cơ bản quyết định "tôi" là tôi
+
+771
+00:43:42,255 --> 00:43:44,556
+mà các dữ liệu lưu trữ trong các hạt đó
+
+772
+00:43:44,657 --> 00:43:46,859
+Và các dữ liệu đó được dịch chuyển một cách chính xác
+
+773
+00:43:46,860 --> 00:43:49,828
+Tất cả hàng nghìn tỷ tỷ tỷ hạt
+
+774
+00:43:49,929 --> 00:43:51,663
+trong cơ thể tôi
+
+775
+00:43:51,765 --> 00:43:54,733
+ZEILINGER:
+Đó là một câu hỏi triết học rất sâu sắc
+
+776
+00:43:54,834 --> 00:43:57,369
+Liệu vật nhận được ở trạm bên kia
+
+777
+00:43:57,470 --> 00:44:00,406
+có phải phiên bản gốc hay không
+
+778
+00:44:00,507 --> 00:44:05,244
+Trạng thái của tôi y như phiên bản gốc
+
+779
+00:44:05,345 --> 00:44:07,913
+nghĩa là có tất cả các tính chất của phiên bản gốc
+
+780
+00:44:08,014 --> 00:44:09,114
+HƯỚNG DẪN VIÊN:
+Chào mừng tới New York
+
+781
+00:44:09,215 --> 00:44:12,818
+ZEILINGER:
+Về nếu trường hợp đó đúng thì đấy sẽ là phiên bản gốc
+
+782
+00:44:12,919 --> 00:44:15,387
+Tôi sẽ không bao giờ đặt chân vào cái máy đó
+
+783
+00:44:15,488 --> 00:44:17,156
+
+
+784
+00:44:17,257 --> 00:44:19,958
+Cho dù việc dịch chuyển tức thời
+
+785
+00:44:20,059 --> 00:44:22,127
+có trở thành hiện thực hay không
+
+786
+00:44:22,228 --> 00:44:24,763
+sự không chắc chắn không rõ ràng của vật lý lượng tử
+
+787
+00:44:24,864 --> 00:44:28,467
+có rất nhiều các ứng dụng tiềm tàng khác
+
+788
+00:44:28,568 --> 00:44:33,372
+Tại MIT, Seth Lloyd và các đồng nghiệp
+
+789
+00:44:33,473 --> 00:44:36,775
+đang cố gắng ứng dụng vật lý lượng tử theo một cách táo bạo và mới mẻ
+
+790
+00:44:36,876 --> 00:44:39,478
+LLOYD:
+Vật lý lượng tử thật kì cục
+
+791
+00:44:39,579 --> 00:44:40,846
+Đó là cách để nói về nó
+
+792
+00:44:40,947 --> 00:44:43,282
+Cuộc sống đưa cho chúng ta những quả chanh kì cục
+
+793
+00:44:43,383 --> 00:44:45,984
+và liệu chúng ta có làm được nước chanh kì cục từ nó không?
+
+794
+00:44:46,085 --> 00:44:51,824
+GREENE:
+Thứ nước chanh kì cục là Lloyd nói đến là một máy tính lượng tử
+
+795
+00:44:51,925 --> 00:44:54,226
+LLOYD:
+Đó là phần quan trọng nhất của máy tính lượng tử
+
+796
+00:44:54,327 --> 00:44:57,696
+GREENE:
+Chi tiết máy màu vàng và màu đồng thau này
+
+797
+00:44:57,797 --> 00:45:00,032
+có lẽ không giống với chiếc laptop quen thuộc của bạn
+
+798
+00:45:00,133 --> 00:45:06,605
+nhưng trái tim của chúng thì giống nhau: chúng cùng sử dụng ngôn ngữ nhị phân
+
+799
+00:45:06,706 --> 00:45:12,544
+thứ ngôn ngữ máy tính được ghi lại bằng bit: có giá trị 0 hoặc 1
+
+800
+00:45:12,645 --> 00:45:17,282
+LLOYD:
+Đơn vị nhỏ nhất của thông tin là bit
+
+801
+00:45:17,383 --> 00:45:21,787
+và máy vi tính đơn giản chỉ việc dịch mã thông tin
+
+802
+00:45:21,888 --> 00:45:23,055
+từ những đơn vị nhỏ nhất này
+
+803
+00:45:23,156 --> 00:45:24,389
+và rồi đảo ngược lại một cách rất rất nhanh
+
+804
+00:45:24,491 --> 00:45:28,227
+GREENE:
+Chiếc máy tính lượng tử này nói chuyện bằng qua các bit
+
+805
+00:45:28,328 --> 00:45:30,529
+nhưng không giống với các bit thông thường
+
+806
+00:45:30,630 --> 00:45:36,034
+ở dạng 0 và 1 ở bất cứ thời điểm nào
+
+807
+00:45:36,135 --> 00:45:38,270
+các bit lượng tử thoải mái hơn
+
+808
+00:45:38,371 --> 00:45:40,939
+Tức là một số vật ở đây có thể gọi là một bit
+
+809
+00:45:41,040 --> 00:45:44,576
+đây là 0 và kia là 1
+
+810
+00:45:44,677 --> 00:45:46,745
+Đó là một bit dữ liệu
+
+811
+00:45:46,846 --> 00:45:49,448
+Vì vậy nếu một thứ nào đó hoặc ở đây, hoặc ở kia
+
+812
+00:45:49,549 --> 00:45:54,686
+ở cùng một lúc, thì ta sẽ được một bit lượng tử, hay "qubit"
+
+813
+00:45:54,787 --> 00:45:58,390
+GREENE:
+Cũng như việc một electron có thể là một sự trộn lẫn
+
+814
+00:45:58,491 --> 00:46:02,127
+giữa spin thuận chiều hay ngược chiều đồng hồ
+
+815
+00:46:02,228 --> 00:46:04,563
+một bit lượng tử có thể cũng là một trộn lẫn
+
+816
+00:46:04,664 --> 00:46:09,801
+giữa 0 và 1, và vì thế qubit có thể thực hiện nhiều việc cùng lúc
+
+817
+00:46:09,903 --> 00:46:11,503
+LLOYD:
+Có nghĩa là ta có thể tính toán
+
+818
+00:46:11,604 --> 00:46:14,740
+theo cách mà trí óc của con người
+
+819
+00:46:14,841 --> 00:46:16,909
+không bao giờ mơ tới được
+
+820
+00:46:17,010 --> 00:46:20,145
+GREENE:
+Theo lý thuyết, bit lượng tử có thể hình ảnh từ mọi thứ
+
+821
+00:46:20,246 --> 00:46:24,516
+miễn là chúng hoạt động theo cách của lượng tử, như một electron hay nguyên tử
+
+822
+00:46:24,617 --> 00:46:27,286
+Qubit - trái tim của máy vi tính lượng tử
+
+823
+00:46:27,387 --> 00:46:29,621
+cũng chính là những bảng mạch siêu dẫn
+
+824
+00:46:29,722 --> 00:46:31,323
+sản xuất bằng công nghệ nano
+
+825
+00:46:31,424 --> 00:46:33,825
+có thể chạy theo 2 chiều một lúc
+
+826
+00:46:33,927 --> 00:46:36,528
+Do qubit chuyên vào thực hiện nhiều việc cùng lúc
+
+827
+00:46:36,629 --> 00:46:39,298
+nếu ta tìm được cách
+
+828
+00:46:39,399 --> 00:46:41,967
+khiến nhiều qubit cùng giải toán cùng nhau
+
+829
+00:46:42,068 --> 00:46:46,805
+sức mạnh tính toán của chúng ta sẽ bùng nổ theo cấp số nhân
+
+830
+00:46:49,008 --> 00:46:53,345
+Để hiểu tại sao máy tính lượng tử có thể có sức mạnh như vậy
+
+831
+00:46:53,446 --> 00:46:58,083
+tưởng tượng ta bị kẹt ở giữa một mê cung
+
+832
+00:47:07,093 --> 00:47:11,263
+Thì ta chỉ muốn tìm đường thoát nhanh nhất có thể
+
+833
+00:47:11,364 --> 00:47:14,099
+Vấn đề là có quá nhiều cách lựa chọn
+
+834
+00:47:15,735 --> 00:47:17,369
+Và ta phải thử từng cách một theo thứ tự thời gian
+
+835
+00:47:21,407 --> 00:47:24,810
+Nghĩa là tôi phải gặp nhiều đường cụt
+
+836
+00:47:24,911 --> 00:47:27,779
+đi vào nhiều ngõ cụt
+
+837
+00:47:27,880 --> 00:47:31,016
+và quặt sai nhiều chỗ
+
+838
+00:47:31,117 --> 00:47:34,886
+trước khi tôi có thể may mắn tìm ra lối thoát
+
+839
+00:47:34,988 --> 00:47:36,288
+Và đó gần như chính là cách
+
+840
+00:47:36,389 --> 00:47:38,557
+máy vi tính ngày nay giải toán
+
+841
+00:47:38,658 --> 00:47:41,126
+Dù cho chúng xử lý rất nhanh
+
+842
+00:47:41,227 --> 00:47:44,262
+chúng chỉ có thể thực hiện một việc một lúc
+
+843
+00:47:44,364 --> 00:47:48,700
+như thể tôi chỉ có thể thám hiểm mê cung này theo một đường một lúc
+
+844
+00:47:48,801 --> 00:47:52,671
+Nhưng nếu tôi có thể thử tất cả các khả năng cùng một thời điểm
+
+845
+00:47:52,772 --> 00:47:54,406
+thì câu chuyện sẽ trở nên hoàn toàn khác
+
+846
+00:47:54,507 --> 00:47:57,109
+Và đó là cách máy tính lượng tử hoạt động
+
+847
+00:48:00,580 --> 00:48:04,549
+Bởi vì các hạt có thể, theo một cách hiểu, ở nhiều nơi cùng một lúc
+
+848
+00:48:04,651 --> 00:48:07,419
+máy tính có thể thử một lượng lớn các đường rẽ
+
+849
+00:48:07,520 --> 00:48:10,222
+hoặc các phép toán ở cùng thời điểm
+
+850
+00:48:10,323 --> 00:48:14,292
+và tìm ra phương án đúng trong nháy mắt
+
+851
+00:48:14,394 --> 00:48:16,161
+Giờ, một mê cung như thế này
+
+852
+00:48:16,262 --> 00:48:17,963
+chỉ có một lượng giới hạn các đường rẽ để thử
+
+853
+00:48:18,064 --> 00:48:19,131
+vì thế một máy tính truyền thống
+
+854
+00:48:19,232 --> 00:48:22,567
+có thể tìm được đường thoát một cách nhanh chóng
+
+855
+00:48:22,669 --> 00:48:24,336
+Nhưng tưởng tượng một bài toán
+
+856
+00:48:24,437 --> 00:48:28,874
+với hàng triệu hoặc hàng tỷ biến
+
+857
+00:48:28,975 --> 00:48:31,243
+như thể dự đoán tình hình thời tiết trong tương lai xa
+
+858
+00:48:31,344 --> 00:48:34,012
+Chúng ta có thể dự đoán được các thiên tai
+
+859
+00:48:34,113 --> 00:48:37,482
+như động đất hay sóng thần
+
+860
+00:48:37,583 --> 00:48:40,719
+Giải được những vấn đề đó hiện tại là bất khả thi
+
+861
+00:48:40,820 --> 00:48:43,355
+bởi nó sẽ cần đến một máy tính lớn không tưởng tượng được
+
+862
+00:48:43,456 --> 00:48:46,458
+nhưng một máy tính lượng tử có thể làm được việc đó
+
+863
+00:48:46,559 --> 00:48:49,261
+chỉ với vài trăm nguyên tử
+
+864
+00:48:49,362 --> 00:48:51,630
+Vì vì thế bộ não của máy tính lượng tử
+
+865
+00:48:51,731 --> 00:48:54,933
+thậm chí nhỏ hơn một hạt cát
+
+866
+00:48:57,603 --> 00:49:00,072
+Không nghi ngờ gì là chúng ta đang ngày càng tiến bộ
+
+867
+00:49:00,173 --> 00:49:03,575
+trong việc ứng dụng nguồn lực của thế giới lượng tử
+
+868
+00:49:03,676 --> 00:49:05,310
+và ai biết được tương lai ta còn phát triển đến đâu?
+
+869
+00:49:09,348 --> 00:49:11,450
+Nhưng ta không được quên rằng cốt lõi của lý thuyết này
+
+870
+00:49:11,551 --> 00:49:16,722
+điều đã đem lại nhiều thành tựu cho con người - vẫn còn nhiều lỗ hổng
+
+871
+00:49:16,823 --> 00:49:19,157
+Ở tầng thấp nhất của thế giới lượng tử kì cục
+
+872
+00:49:19,258 --> 00:49:22,094
+ở quy mô nguyên tử và các hạt cơ bản
+
+873
+00:49:22,195 --> 00:49:24,830
+thì sự kì cục đó đã biến đâu mất?
+
+874
+00:49:24,931 --> 00:49:26,665
+Tại sao thế giới lượng tử
+
+875
+00:49:26,766 --> 00:49:28,500
+không ở một trạng thái không chắc chắn
+
+876
+00:49:28,601 --> 00:49:32,137
+từng là một phần ở đây và phần khác lại ở kia
+
+877
+00:49:32,238 --> 00:49:35,574
+với rất nhiều khả năng xảy ra, trong khi mỗi người chúng ta
+
+878
+00:49:35,675 --> 00:49:38,310
+những thứ được cấu tạo hoàn toàn từ nguyên tử và các hạt
+
+879
+00:49:38,411 --> 00:49:43,148
+dường như kẹt lại trong một trạng thái xác định
+
+880
+00:49:43,249 --> 00:49:46,918
+Chúng ta chỉ có thể ở một nơi trong không gian
+
+881
+00:49:47,019 --> 00:49:50,856
+Niels Bohr đã không đưa ra một giải thích thực tế nào
+
+882
+00:49:50,957 --> 00:49:53,892
+về tại sao những sự mờ ảo kì cục của thế giới lượng tử
+
+883
+00:49:53,993 --> 00:49:58,029
+dường như biến mất khi xem xét ở kích thước lớn hơn
+
+884
+00:49:59,966 --> 00:50:01,633
+Thậm chí những gì chính xác và mạnh mẽ
+
+885
+00:50:01,734 --> 00:50:04,236
+như vật lý lượng tử
+
+886
+00:50:04,337 --> 00:50:09,174
+mà các nhà khoa học còn phải đau đầu để hiểu
+
+887
+00:50:09,275 --> 00:50:11,810
+Một số người tin rằng có điều gì đó vẫn chưa được tìm ra
+
+888
+00:50:11,911 --> 00:50:14,412
+thiếu mất trong các phương trình của vật lý lượng tử
+
+889
+00:50:14,514 --> 00:50:17,949
+Và vì thế, dù có nhiều khả năng có thể xảy ra
+
+890
+00:50:18,050 --> 00:50:21,720
+trong thế giới nhỏ bé kia, thông tin bị thiếu sẽ khiến các đại lượng khác thay đổi
+
+891
+00:50:21,821 --> 00:50:25,991
+khi ta chuyển từ thế giới các nguyên tử sang thế giới thực tại lớn hơn
+
+892
+00:50:26,092 --> 00:50:27,859
+nó trở nên rõ ràng
+
+893
+00:50:27,960 --> 00:50:31,062
+rằng tất cả các xác suất
+
+894
+00:50:31,164 --> 00:50:35,967
+quy về một giá trị duy nhất, biến cố chắc chắn
+
+895
+00:50:36,068 --> 00:50:39,471
+Các nhà vật lý khác tin rằng tất cả các xác suất
+
+896
+00:50:39,572 --> 00:50:43,108
+tồn tại trong thế giới lượng tử, không bao giờ biến mất
+
+897
+00:50:43,209 --> 00:50:47,445
+Thay vào đó, mỗi và mọi kết quả của các xác suất đều đang xảy ra rồi
+
+898
+00:50:47,547 --> 00:50:50,615
+nhưng vần đề là các kết quả đó
+
+899
+00:50:50,716 --> 00:50:54,119
+đang diễn ra tại các vũ trụ khác song song với chúng ta
+
+900
+00:50:54,220 --> 00:50:58,123
+Đó là một ý tưởng đột phá
+
+901
+00:50:58,224 --> 00:51:02,594
+nhưng thực trạng của vũ trụ mà chúng ta đang sống hàng ngày
+
+902
+00:51:02,695 --> 00:51:04,196
+có thể vẫn đang đi theo nhiều hướng khác
+
+903
+00:51:04,297 --> 00:51:06,364
+ở các thế giới mới khác
+
+904
+00:51:06,465 --> 00:51:11,369
+những nơi tập hợp tất cả các giá trị của xác suất có thể xảy ra
+
+905
+00:51:11,470 --> 00:51:13,471
+Đây là giới hạn của vật lý lượng tử
+
+906
+00:51:13,573 --> 00:51:18,543
+và không ai biết nó sẽ dẫn tới đâu
+
+907
+00:51:18,644 --> 00:51:21,746
+Sự thật hiển nhiên rằng thực trạng của vũ trụ chúng ta rộng lớn hơn ta nghĩ
+
+908
+00:51:21,848 --> 00:51:25,450
+kì lạ hơn và bí ẩn hơn ta nghĩ
+
+909
+00:51:25,551 --> 00:51:30,355
+với tôi, cũng rất đẹp đẽ và tạo cảm hứng tuyệt vời
+
+910
+00:51:30,456 --> 00:51:35,427
+Vẻ đẹp của khoa học là ở chỗ nó khiến bạn không ngừng tìm ra những cái mới
+
+911
+00:51:35,528 --> 00:51:38,129
+vượt lên hết những giấc mơ xa vời nhất của bạn
+
+912
+00:51:38,231 --> 00:51:41,199
+Và vật lý lượng tử là một ví dụ điển hình cho điều đó
+
+913
+00:51:41,300 --> 00:51:43,435
+Sau khi nghiên cứu về vật lý lượng tử
+
+914
+00:51:43,536 --> 00:51:46,872
+bạn cũng không bao giờ còn là chính mình nữa
+
+915
+00:51:50,343 --> 00:51:52,711
+GREENE:
+Dù vật lý lượng tử kì lạ như thế nào
+
+916
+00:51:52,812 --> 00:51:54,913
+điều đã rõ ràng là không có giới hạn nào
+
+917
+00:51:55,014 --> 00:51:56,915
+giữa thế giới ở quy mô nhỏ hay lớn
+
+918
+00:51:57,016 --> 00:52:01,419
+Thay vào đó, các quy luật đều ứng dụng được ở mọi nơi
+
+919
+00:52:01,520 --> 00:52:04,723
+và điểm khác biệt chỉ là những tính chất kì cục chỉ thể hiện rõ ràng nhất
+
+920
+00:52:04,824 --> 00:52:07,125
+khi mọi vật đều nhỏ
+
+921
+00:52:07,226 --> 00:52:09,127
+Và vì thế các khám phá trong vật lý lượng tử
+
+922
+00:52:09,228 --> 00:52:12,697
+đã hé lộ một thực tại, thực tại của chúng ta
+
+923
+00:52:12,798 --> 00:52:15,000
+vừa gây sốc, mà vừa hồi hộp
+
+924
+00:52:15,101 --> 00:52:18,003
+đưa chúng ta gần hơn tới việc hiểu hoàn toàn
+
+925
+00:52:18,104 --> 00:52:20,705
+Kết cấu của Vũ Trụ
+
+926
+00:52:21,050 --> 00:52:29,152
+Phụ đề tiếng Việt: Team-NASA
+
+927
+00:52:38,190 --> 00:52:40,692
+Tài Trợ Chính cho NOVA gồm:
+
+928
+00:52:43,129 --> 00:52:44,496
+Và
+
+929
+00:52:55,274 --> 00:52:58,677
+Và bởi Tập Toàn Truyền Thông Công Cộng
+
+930
+00:52:58,778 --> 00:53:03,014
+và bởi đóng góp của bạn tới đài truyền hình PBS từ
+
+931
+00:53:09,655 --> 00:53:12,324
+Quỹ chính trài trợ cho chương trình "Kết cấu vũ trụ"
+
+932
+00:53:12,425 --> 00:53:15,026
+được cung cấp bởi Hiệp Hội Khoa Học Tự Nhiên
+
+933
+00:53:22,802 --> 00:53:24,336
+Và
+
+934
+00:53:27,406 --> 00:53:30,208
+Các nghiên cứu liên quan cũng như các kiến thức chung
+
+935
+00:53:30,309 --> 00:53:36,181
+về khoa học, công nghệ, kĩ thuật và toán học
+
+936
+00:53:36,282 --> 00:53:38,183
+Những khoản tài trợ khác đến từ
+
+937
+00:53:50,062 --> 00:53:52,063
+Và Quỹ George D.Smith
+
+938
+00:53:55,034 --> 00:53:57,769
+Phụ đề: Hieuxlu_7314; fanarsenal_vietnam
+(Đỗ Đức Hiếu, Lê Văn Tuấn)
+
