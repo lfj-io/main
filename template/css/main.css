@@ -218,8 +218,8 @@ color:#e78937;
   /* floated labels */
   --inputPaddingV: var(--gutterMd);
   --inputPaddingH: var(--gutterLg);
-  --inputFontSize: var(--gutterSm);
-  --inputLineHeight: var(--lineHeightSm);
+  --inputFontSize: var(--fontSizeLg);
+  --inputLineHeight: var(--lineHeightMd);
   --labelScaleFactor: 0.8;
   --labelDefaultPosY: 50%;
   --labelTransformedPosY: calc(
@@ -260,19 +260,19 @@ color:#e78937;
 }
 
 .Input-text {
-    display: block;
-    margin: 0;
-    padding: 9px;
-    color: inherit;
-    width: 100%;
-    font-family: inherit;
-    font-size: 15px;
-    font-weight: inherit;
-    line-height: 9px;
-    border: none;
-    border-radius: 0.4rem;
-    transition: box-shadow var(--transitionDuration);
-}}
+  display: block;
+  margin: 0;
+  padding: var(--inputPaddingV) var(--inputPaddingH);
+  color: inherit;
+  width: 100%;
+  font-family: inherit;
+  font-size: var(--inputFontSize);
+  font-weight: inherit;
+  line-height: var(--inputLineHeight);
+  border: none;
+  border-radius: 0.4rem;
+  transition: box-shadow var(--transitionDuration);
+}
 
 .Input-text::placeholder {
   color: #B0BEC5;
@@ -284,15 +284,15 @@ color:#e78937;
 }
 
 .Input-label {
-    display: block;
-    position: absolute;
-    bottom: -75%;
-    left: 0.8em;
-    color: #ba5c31;
-    font-family: inherit;
-    font-size: 20px;
-    font-weight: inherit;
-    line-height: var(--inputLineHeight);
+  display: block;
+  position: absolute;
+  bottom: 50%;
+  left: 1rem;
+  color: #fff;
+  font-family: inherit;
+  font-size: var(--inputFontSize);
+  font-weight: inherit;
+  line-height: var(--inputLineHeight);
   opacity: 0;
   transform: 
     translate3d(0, var(--labelDefaultPosY), 0)
