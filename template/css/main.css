@@ -218,8 +218,8 @@ color:#e78937;
   /* floated labels */
   --inputPaddingV: var(--gutterMd);
   --inputPaddingH: var(--gutterLg);
-  --inputFontSize: var(--fontSizeLg);
-  --inputLineHeight: var(--lineHeightMd);
+  --inputFontSize: var(--gutterSm);
+  --inputLineHeight: var(--lineHeightSm);
   --labelScaleFactor: 0.8;
   --labelDefaultPosY: 50%;
   --labelTransformedPosY: calc(
