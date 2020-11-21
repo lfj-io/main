@@ -61,7 +61,7 @@
 	"WAITFOR_A":"等待",
 	"WAITFOR_B":"ms后下载窗口自动关闭。",
 	"WAITFOR_E":"设置LFJ等待提取下载URL的最大执行时间，后下载窗口自动关闭。 (的网速并不是很快时，意味着这将消耗更长的时间)。 LFJ支持的<span style=\"color:cyan;\" onclick=\"lfi_fetch('work');\">网盘列表</span> ...",
-	"ADBLOCKCUSTOM":"LFJ允许通过使用通用语法创建简单的过滤器来阻止您访问的任何网页上的任何JavaScript或令人讨厌的元素，您还可以共享过滤器，或从其他用户共享的LFJ库中导入现有过滤器。",
+	"ADBLOCKCUSTOM":"LFJ允许通过使用通用语法创建简单的过滤器来阻止您访问的任何网页上的任何JavaScript或令人讨厌的元素，您还可以共享过滤器，或从其他用户共享的LFJ库中导入现有过滤器。  <a href='https://thewolds.github.io/video/?ckapop=true&uri=8AJ4OFnQuF92GglmiIShmMO7+YMNIh7urGMe6ZO8i+aapYpM+IPa+9M=&autoplay=true'>快速入门指南</a>",
 	"ADD_DOMAIN":"如果您喜欢的域名未列出, 单击<a style=\"color:cyan;\" onclick=\"lfi_fetch('contacts');\" data-js=\"contacts\">此链接</a>添加."
 
 
