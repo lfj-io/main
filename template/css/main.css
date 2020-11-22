@@ -352,7 +352,7 @@ display: inline-block; text-align: start;
     text-align: end;
     float: right;
 }
-}
+
 
 .sharedinfo.changes{
 color: orangered; font-size: 12px; margin-top: 4px; margin-left: 4px;
@@ -360,3 +360,13 @@ color: orangered; font-size: 12px; margin-top: 4px; margin-left: 4px;
 .sharedinfo.user{
 margin-bottom: 10px;
 }
+
+
+
+
+
+
+
+
+
+
