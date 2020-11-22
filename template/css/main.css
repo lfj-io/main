@@ -378,6 +378,7 @@ user-select: all; font-size: 12px; padding-right: 8px;
 }
 .examresult:first-child{
 padding-left: 8px;
+padding-right:0px;
 
 }
 .exampletext{
