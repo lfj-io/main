@@ -346,11 +346,13 @@ div.result.userbox{
 }
 p.inlinedxuser{
 display: inline-block; text-align: start;
+    color: darkseagreen;
 }
 .sharedinfo.time{
     display: inline;
     text-align: end;
     float: right;
+    font-size: 12px;
 }
 
 
@@ -359,9 +361,14 @@ color: orangered; font-size: 12px; margin-top: 4px; margin-left: 4px;
 }
 .sharedinfo.user{
 margin-bottom: 10px;
+color: #aceeac;
 }
 
+div.sharearea span{
+color: #9efce4;
 
+
+}
 
 
 
