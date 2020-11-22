@@ -376,7 +376,10 @@ color: #9efce4;
 .examresult{
 user-select: all; font-size: 12px; padding-right: 8px;
 }
+.examresult:first-child{
+padding-left: 8px;
 
+}
 .exampletext{
 font-size: 12px; color: wheat; padding-left: 9px;
 }
