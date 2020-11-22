@@ -327,7 +327,7 @@ color:#e78937;
 
 
 pre.sharedinfo.rules{
-max-width: 100%; white-space: break-spaces; font-size: 10px; background: black; overflow: hidden; padding: 11px; border-radius: 6px; user-select: all;
+max-width: 100%; white-space: break-spaces; font-size: 10px; background: black; overflow: hidden; padding: 11px; border-radius: 6px; user-select: all; max-height: 170px; overflow-y: auto;
 }
 p.numberofresult{
 color: coral;
