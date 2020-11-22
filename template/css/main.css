@@ -363,10 +363,12 @@ color: orangered; font-size: 12px; margin-top: 4px; margin-left: 4px;
 margin-bottom: 10px;
 color: #aceeac;
 }
+div.sharearea{
+font-size: 11px; margin-top: 4px; text-align: right;
 
+}
 div.sharearea span{
 color: #9efce4;
-font-size: 11px; margin-top: 4px; text-align: right;
 
 }
 
