@@ -35,7 +35,7 @@
                     <li>
                         <label>
                             <span class="name">Your message</span>
-                            <textarea name="message" rows="5" cols="50"></textarea>
+                            <textarea style="max-width: 100%;" name="message" rows="5" cols="50"></textarea>
                         </label>
                                             </li>
                 </ol>
