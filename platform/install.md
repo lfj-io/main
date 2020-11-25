@@ -4,7 +4,7 @@
 	<div class="mr">
 	<h4 lfj-fanyi="THEBROWSR">1. For best performance you can install browsers on below list, or also can use any browser can able to install the extensions at store.</h4>
 		<ul>
-			<li>Android <a href="https://github.com/fork-maintainers/iceraven-browser/releases/latest" rel="nofollow" target="_blank">Iceraven Browsers (recommend)</a> or <a href="https://kiwibrowser.com/" rel="nofollow" target="_blank">Kiwi Browsers</a></li>
+			<li>Android <a href="https://github.com/fork-maintainers/iceraven-browser/releases/latest" rel="nofollow" target="_blank">Iceraven Browsers (Firefox-based)</a> <span lfj-fanyi="OR">or</span> <a href="https://kiwibrowser.com/" rel="nofollow" target="_blank">Kiwi Browsers</a></li>
 			<li>iOS & Mac <a href="https://apps.apple.com/us/app/firefox-private-safe-browser/id989804926" rel="nofollow" target="_blank">Firefox</a> </li>
 			<li>Windows <a href="http://www.centbrowser.com/" rel="nofollow" target="_blank">Centbrowser</a><span lfj-fanyi="OR">or</span> <a href="https://www.google.com/chrome/" rel="nofollow" target="_blank">Chrome</a><span lfj-fanyi="OR">or</span> <a href="https://www.microsoftedgeinsider.com/" rel="nofollow" target="_blank">Edge</a>...</li>
 		</ul>
