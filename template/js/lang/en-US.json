@@ -73,8 +73,5 @@
 	"ADBLOCKCUSTOM":"LFJ allows to block any element/javascript scripts that annoyed you. Just create custom block filter for website you want to visit, then share it, or import available filters from LFJ libraries that other users have shared.  view <a href='https://thewolds.github.io/video/?ckapop=true&uri=8AJ4OFnQuF92GglmiIShmMO7+YMNIh7urGMe6ZO8i+aapYpM+IPa+9M=&autoplay=true'  target='_blank'>quick start guide</a>, or <a target='_blank' href='https://gitlab.com/lfj.io/lfj/-/blob/master/wiki/en.md'>documentation</a>",
 	"ADD_DOMAIN":"If your preferred name is not listed, just <a onclick=\"lfi_fetch('contacts');\" style=\"color:cyan;\"  data-js=\"contacts\">add them</a> to the list.",
 	"VANCED_HELPER":"Vanced helper tools",
-	"VANCED_HELPER_E":"Auto download mediafire.com, soundcloud.com ..., unlock \"Social Locker\" module of wordpress, see  <a href=\"///lfj.io/template/images/Social-Locker.png\" target=\"_blank\">how it works</a> ",
-	"":"",
-
-
+	"VANCED_HELPER_E":"Auto download mediafire.com, soundcloud.com ..., unlock \"Social Locker\" module of wordpress, see  <a href=\"///lfj.io/template/images/Social-Locker.png\" target=\"_blank\">how it works</a> "
 }
