@@ -72,6 +72,10 @@
 	"WAITFOR_E":"Cài đặt thời gian chờ tối đa để LFJ xử lý liên kết tải xuống (mạng chậm thì cần lâu hơn). Thông số này áp dụng tại những trang chia sẻ tập tin được LFJ hỗ trợ, xem danh sách đầy đủ <span style=\"color:cyan;\" onclick=\"lfi_fetch('work');\">tại đây</span> ...",
 	"ADBLOCKCUSTOM":"LFJ cho phép chặn bất kỳ javascript hoặc phần tử nào làm bạn khó chịu ở những nơi mà bạn truy cập thông qua việc tạo những đoạn mã đơn giản với những cú pháp phổ biến, bạn cũng có thể chia sẻ đoạn mã của bạn, hoặc nhập các bộ lọc có sẵn từ thư viện LFJ mà người dùng khác đã chia sẻ. xem <a href='https://thewolds.github.io/video/?ckapop=true&uri=8AJ4OFnQuF92GglmiIShmMO7+YMNIh7urGMe6ZO8i+aapYpM+IPa+9M=&autoplay=true' target='_blank'>hướng dẫn nhanh</a>  hoặc <a target='_blank' href='https://gitlab.com/lfj.io/lfj/-/blob/master/wiki/vi.md'> tài liệu tiếng việt</a>",
 	"ADD_DOMAIN":"Nếu bạn không tìm thấy trang web yêu thích của bạn ở trên, chỉ cần bấm vào<a onclick=\"lfi_fetch('contacts');\" style=\"color:cyan;\"  data-js=\"contacts\">liên kết này</a>để thêm nó.",
+	"CLIPBROAD_U":"Tải lên clipbroad",
+	"CLIPBROAD_U_E":"Upload ảnh nhanh chóng từ bộ nhớ clipbroad (Ctrl+V) trên mọi trang web.",
+	"HOTUPLOAD_U":"Tải lên tập tin",
+	"HOTUPLOAD_U_E":"Dùng phím tắt [ALT+Shift] mọi lúc để chọn hình ảnh và tải lên.",
 	"VANCED_HELPER":"Bộ công cụ nâng cao",
 	"VANCED_HELPER_E":"Tự động tải xuống tập tin tại mediafire.com, soundcloud.com ... Giúp mở khoá nội dung wordpress sử dụng \"Social Locker\", xem  <a href=\"///lfj.io/template/images/Social-Locker.png\" target=\"_blank\">cách mà nó hoạt động</a>."
 }
