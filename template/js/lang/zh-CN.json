@@ -72,10 +72,10 @@
 	"WAITFOR_E":"设置LFJ等待提取下载URL的最大执行时间，后下载窗口自动关闭。 (的网速并不是很快时，意味着这将消耗更长的时间)。 LFJ支持的<span style=\"color:cyan;\" onclick=\"lfi_fetch('work');\">网盘列表</span> ...",
 	"ADBLOCKCUSTOM":"LFJ允许通过使用通用语法创建简单的过滤器来阻止您访问的任何网页上的任何JavaScript或令人讨厌的元素，您还可以共享过滤器，或从其他用户共享的LFJ库中导入现有过滤器。  <a target='_blank' href='https://thewolds.github.io/video/?ckapop=true&uri=8AJ4OFnQuF92GglmiIShmMO7+YMNIh7urGMe6ZO8i+aapYpM+IPa+9M=&autoplay=true'>快速入门指南</a> 或 <a target='_blank' href='https://gitlab.com/lfj.io/lfj/-/blob/master/wiki/en.md'>文件资料</a>",
 	"ADD_DOMAIN":"如果您喜欢的域名未列出, 单击<a style=\"color:cyan;\" onclick=\"lfi_fetch('contacts');\" data-js=\"contacts\">此链接</a>添加.",
-	"CLIPBROAD_U":"从剪贴板上传",
-	"CLIPBROAD_U_E":"在任何地方都可以使用Ctrl + V / Paste快捷方式上传剪贴板图像。 ",
-	"HOTUPLOAD_U":"从文件上传",
-	"HOTUPLOAD_U_E":"在各处使用热键[ALT + Shift]从文件上传图像",
+	"CLIPBROAD_U":"从剪贴板上传 (1)",
+	"CLIPBROAD_U_E":"(1) 在任何地方都可以使用Ctrl + V / Paste快捷方式上传剪贴板图像。 ",
+	"HOTUPLOAD_U":"从文件上传(2)",
+	"HOTUPLOAD_U_E":"(2) 在各处使用热键[ALT + Shift]从文件上传图像",
 	"VANCED_HELPER":"先进解锁器",
 	"VANCED_HELPER_E":"在mediafire.com，soundcloud.com自动下载文件... 帮助解锁WordPress内容,<a href=\"///lfj.io/template/images/Social-Locker.png\" target=\"_blank\">它怎么运作 ?</a>."
 }
