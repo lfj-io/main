@@ -60,6 +60,7 @@
 	"UNLOCK_FACEBOOK_E":"删除Facebook上的广告..",
 	"NO_TRAFFIC":"不发送referrer信息",
 	"NO_TRAFFICQ":" [<a target='_blank' style=\"color:cyan;\"  href='https://www.ruanyifeng.com/blog/2019/06/http-referer.html#main-content'>是什么?</a>]",
+	"FORUMS":"中文论坛",
 	"NO_TRAFFIC_E":"将 <code>nofollow noopener noreferrer</code> 添加到所有超链接中，修改所有网站的 <code>referrer-policy</code> 标头以隐藏跨域的访问量, <a target='_blank' style=\"color:cyan;\"  href='https://duckduckgo.com/?q=nullrefer.com+What+is+my+referrer&t=h_&ia=web'>referrer检查</a>",
 	"ANOTHEROPTION":"另外一个选项",
 	"ANOTHEROPTION_E":"需要更多功能吗？<span style=\"color:cyan;\" onclick=\"lfi_fetch('contacts');\">联系我们</span>系以请求功能.",

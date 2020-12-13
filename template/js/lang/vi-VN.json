@@ -60,6 +60,7 @@
 	"UNLOCK_FACEBOOK_E":"Loại bỏ các quảng cáo, tin tài trợ tại facebook..",
 	"NO_TRAFFIC":"Ẩn nguồn truy cập",
 	"NO_TRAFFICQ":"",
+	"FORUMS":"Vào diễn đàn",
 	"NO_TRAFFIC_E":"Sẽ thêm <code>nofollow noopener noreferrer</code> vào tất cả liên kết, đồng thời sửa lại <code>referrer-policy</code> trên tất cả trang web nhằm ẩn đi nguồn truy cập của bạn trên toàn bộ website. Bạn có thể <a target='_blank' style=\"color:cyan;\"  href='https://duckduckgo.com/?q=nullrefer.com+What+is+my+referrer&t=h_&ia=web'>test ở đây</a>",
 	"GODMODE":"GodMode",
 	"GODMODE_E":"Cho phép phím nóng [ALT + CAPS LOCK] kích hoạt GodMode trên một trang web cụ thể, nó cho phép bạn chỉnh sửa, sao chép, nhấp chuột phải, sử dụng menu chuột trái, chọn văn bản copy, sử dụng devtools, gỡ lỗi ...",
