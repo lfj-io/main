@@ -79,5 +79,5 @@
 	"HOTUPLOAD_U_E":"(1) 在各处使用热键[ALT + Shift]从文件上传图像",
 	"VANCED_HELPER":"先进解锁器",
 	"VANCED_HELPER_E":"在mediafire.com，soundcloud.com自动下载文件... 帮助解锁WordPress内容,<a href=\"///lfj.io/template/images/Social-Locker.png\" target=\"_blank\">它怎么运作 ?</a>.",
-	"SLEAZYFORK":"当前，您正在使用第三方版本（来自greasyfork.org）。切换到正式版本可以帮助您更快地从LFJ获得将来的补丁，只需单击此处，然后重新安装即可。"
+	"SLEAZYFORK":"当前，您正在使用第三方版本（来自greasyfork.org）。<br>切换到正式版本可以帮助您更快地从LFJ获得将来的补丁<br>只需单击此处，然后重新安装即可。"
 }
