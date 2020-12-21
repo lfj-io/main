@@ -78,5 +78,6 @@
 	"CLIPBROAD_U_E":"(2) Upload clipboard image with Ctrl+V/Paste shortcut in everywhere. ",
 	"HOTUPLOAD_U":"Upload from file (1)",
 	"HOTUPLOAD_U_E":"(1) Using hotkey [ALT+Shift] in everywhere to upload image from file",
-	"VANCED_HELPER_E":"Auto download mediafire.com, soundcloud.com ..., unlock \"Social Locker\" module of wordpress, see  <a href=\"///lfj.io/template/images/Social-Locker.png\" target=\"_blank\">how it works</a> "
+	"VANCED_HELPER_E":"Auto download mediafire.com, soundcloud.com ..., unlock \"Social Locker\" module of wordpress, see  <a href=\"///lfj.io/template/images/Social-Locker.png\" target=\"_blank\">how it works</a> ",
+	"SLEAZYFORK":"Currently, you are using the third party version (from greasyfork.org). Switching to the official version will help you get future patches from LFJ faster, just click here to install it."
 }
