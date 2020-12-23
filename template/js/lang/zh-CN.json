@@ -68,6 +68,7 @@
 	"GODMODE_E":"允许热键[ALT+CAPS LOCK]在指定站点上激活Godmode，它允许您编辑，复制，右键单击，使用上下文菜单，选择文本（用于复制），使用devtools，调试...",
 	"COUNTRYOPTION":"",
 	"SITE_EXCLUDE":"LFJ被排除在任何银行和支付网关站点之外，例如:",
+	"SITE_PREMIUM":"高级VIP会员: 部分或全部高级功能已解锁。",
 	"WAITFOR_A":"等待",
 	"WAITFOR_B":"ms后下载窗口自动关闭。",
 	"WAITFOR_E":"设置LFJ等待提取下载URL的最大执行时间，后下载窗口自动关闭。 (的网速并不是很快时，意味着这将消耗更长的时间)。 LFJ支持的<span style=\"color:cyan;\" onclick=\"lfi_fetch('work');\">网盘列表</span> ...",

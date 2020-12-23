@@ -68,6 +68,7 @@
 	"ANOTHEROPTION_E":"Bạn muốn thêm một tính năng hữu ích ? hãy <span style=\"color:cyan;\" onclick=\"lfi_fetch('contacts');\">liên hệ chúng tôi</span> và nói về điều đó.",
 	"COUNTRYOPTION":"Nếu bạn ở việt nam, bạn sẽ không thể vào các trang web người lớn như xvideos hay pornhub được, nếu muốn vào thì phải dùng 1.1.1.1 nhé, link tải dành cho: <a target='_blank' href='https://itunes.apple.com/us/app/1-1-1-1-faster-internet/id1423538627'>iPhone</a>, <a  target='_blank' href='https://1.1.1.1/Cloudflare_WARP.zip'>Macbook</a>, <a href='https://play.google.com/store/apps/details?id=com.cloudflare.onedotonedotonedotone'  target='_blank'>Android/CH Play</a>, <a  target='_blank' href='https://1.1.1.1/Cloudflare_WARP_Release-x64.msi'>Windows 64bit</a>, phiên bản dành cho Windows 32bit chưa được phát hành, bạn có thể dùng VPN thay thế",
 	"SITE_EXCLUDE":"LFJ sẽ không hoạt động đối với các trang web ngân hàng, hoặc trang thanh toán, bao gồm:",
+	"SITE_PREMIUM":"Premium Unlocked: Bạn có thể sử dụng một số, hoặc toàn bộ các tính năng cao cấp của website này.",
 	"WAITFOR_A":"Chờ tab tải xuống trong ",
 	"WAITFOR_B":"ms, rồi đóng tab.",
 	"WAITFOR_E":"Cài đặt thời gian chờ tối đa để LFJ xử lý liên kết tải xuống (mạng chậm thì cần lâu hơn). Thông số này áp dụng tại những trang chia sẻ tập tin được LFJ hỗ trợ, xem danh sách đầy đủ <span style=\"color:cyan;\" onclick=\"lfi_fetch('work');\">tại đây</span> ...",
