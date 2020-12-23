@@ -68,7 +68,7 @@
 	"ADDMORE":"More...",
 	"COUNTRYOPTION":"",
 	"SITE_EXCLUDE":"LFJ not working at the banking and payment gateway sites, such as:",
-	"SITE_PREMIUM":"Premium Unlocked: You can access to some or all premium features of the website.",
+	"SITE_PREMIUM":"You can access to some or all premium features of the website.",
 	"WAITFOR_A":"Wait download's tab for ",
 	"WAITFOR_B":"ms, then close.",
 	"WAITFOR_E":"Set maximum execution time LFJ wait for download url to fetched, then forced to close tab (slow connection need longer time to execute script), this settings work at supported file hosting, <span style=\"color:cyan;\" onclick=\"lfi_fetch('work');\">check list here</span> ...",
