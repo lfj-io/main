@@ -429,7 +429,8 @@ font-size: 12px; color: wheat; padding-left: 9px;padding-right: 8px;min-width: 5
 
 span.addPremium{
     color: #ffcd34 !important;
-    padding-left: 1px;
+    padding-left: 1px !important;
+    margin-left: 0px !important;
 }
 span.addPremium img{
     margin-left: 3px;
