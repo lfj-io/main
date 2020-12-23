@@ -422,11 +422,11 @@ font-size: 12px; color: wheat; padding-left: 9px;padding-right: 8px;min-width: 5
 
 
 .tippy-box[data-theme~='gradient'] {
-    color: #edf54c;
-    font-size:16px;
-    background: linear-gradient(130deg,#6d0466,#861fd0);
-    font-weight: bold;
+    color: #f7eb0f;
+    font-size:17px;
+    background: linear-gradient(130deg,#ff0000,#fd8002);
 }
+
 .addPremium{
 color: #ffdb57;
 font-weight: bold;
