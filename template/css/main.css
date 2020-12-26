@@ -427,6 +427,13 @@ font-size: 12px; color: wheat; padding-left: 9px;padding-right: 8px;min-width: 5
     background: linear-gradient(115deg,#bf2f00,#dc4900);
 }
 
+.tippy-box[data-theme~='lradient']{
+    color: #fbfbfbe6;
+    font-size: 17px;
+    background: linear-gradient(115deg,#450019,#4d023e);
+}
+
+
 span.addPremium{
     color: #ffaf4c !important;
     padding-left: 1px !important;
