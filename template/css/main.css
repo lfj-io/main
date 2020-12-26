@@ -432,7 +432,7 @@ span.addPremium{
     padding-left: 1px !important;
     margin-left: 0px !important;
 }
-span.addPremium img{
+span.addPremium img,span.updateNeed img{
     margin-left: 3px;
     max-width: 16px;
     vertical-align: text-bottom;
