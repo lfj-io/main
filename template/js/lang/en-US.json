@@ -80,5 +80,6 @@
 	"HOTUPLOAD_U":"Upload from file (1)",
 	"HOTUPLOAD_U_E":"(1) Using hotkey [ALT+Shift] in everywhere to upload image from file",
 	"VANCED_HELPER_E":"Auto download mediafire.com, soundcloud.com ..., unlock \"Social Locker\" module of wordpress, see  <a href=\"///lfj.io/template/images/Social-Locker.png\" target=\"_blank\">how it works</a> ",
+	"OFFICALREQUEST":"Not yet supported on third party versions",
 	"SLEAZYFORK":"Currently, you are using the third party version (from greasyfork.org).<br>Switch to the official LFJ version will help you get future patches from LFJ faster<br>Just click here to install it."
 }
