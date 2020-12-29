@@ -433,6 +433,11 @@ font-size: 12px; color: wheat; padding-left: 9px;padding-right: 8px;min-width: 5
     background: linear-gradient(115deg,#450019,#4d023e);
 }
 
+.tippy-box[data-theme~='taskneed']{
+    color: #182b2b;
+    font-size: 17px;
+    background: linear-gradient(115deg,#ececec,#fafafa);
+}
 
 span.addPremium{
     color: #ffaf4c !important;
