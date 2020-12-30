@@ -7,6 +7,8 @@
 	"VERSION":"版本",
 	"SCRIPT":"脚本",
 	"HIT":"早安，",
+	"COPIED":"已经复制到剪贴板上，CTRL+V粘贴。",
+	"MATCHINSTALL":"有效安装的总数:",
 	"ASK":"询问",
 	"REVIEW":"评论",
 	"REPORT":"举报",

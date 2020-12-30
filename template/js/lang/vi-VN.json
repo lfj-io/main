@@ -6,6 +6,8 @@
 	"UPDATE":"Cập nhật lên phiên bản ",
 	"VERSION":"",
 	"SCRIPT":"",
+	"COPIED":"Đã chép vào bộ nhớ tạm CTRL+V để dán",
+	"MATCHINSTALL":"Số lượt cài đặt hợp lệ:",
 	"HIT":"Chào bạn, ",
 	"ASK":"Hỏi",
 	"REVIEW":"Đánh giá",

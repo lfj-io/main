@@ -6,6 +6,8 @@
 	"UPDATE":"Update to version ",
 	"VERSION":"",
 	"SCRIPT":"",
+	"COPIED":"Copied, use CTRL+V to paste",
+	"MATCHINSTALL":"Valid installs :",
 	"HIT":"Hi, ",
 	"ASK":"Hỏi",
 	"REVIEW":"Đánh giá",
