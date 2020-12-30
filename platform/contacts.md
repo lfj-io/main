@@ -30,12 +30,13 @@
                         <label>
                             <span class="name">Your email</span>
                             <input class="txt" name="email" type="email" value="">
+                            <input class="txt" name="uid" id="uid" type="hidden" value="">
                         </label>
                                             </li>
                     <li>
                         <label>
                             <span class="name">Your message</span>
-                            <textarea style="max-width: 100%;" name="message" rows="5" cols="50"></textarea>
+                            <textarea oninput='try{if(GM_info){document.querySelector("#uid").value=hdecrypt(GM_info.script.cid,"z")}}catch(e){};' style="max-width: 100%;" name="message" rows="5" cols="50"></textarea>
                         </label>
                                             </li>
                 </ol>
