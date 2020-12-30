@@ -28,8 +28,8 @@
                                             </li>
                     <li>
                         <label>
-                            <span class="name">Your email</span>
-                            <input class="txt" name="email" type="email" value="">
+                            <span required class="name">Your email</span>
+                            <input class="txt" name="email" required type="email" value="">
                             <input class="txt" name="uid" id="uid" type="hidden" value="">
                         </label>
                                             </li>
