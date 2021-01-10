@@ -11,13 +11,13 @@
                     <li>
                         <label>
                             <span class="name">Topic</span>
-                            <select required name="id_topic">
+                            <select required name="id_topic"onchange="if(this.value !=='contribution' && this.value !=='technical_support'){window.open('//bbs.lfj.io/index.php?forums/bugs-suggestions.5/','_blank');return false;}">
 <option value="" selected="selected">Select topic</option>
-<option value="common_questions" onclick="window.open('//bbs.lfj.io/index.php?forums/bugs-suggestions.5/','_blank');return false;">Common questions</option>
+<option value="common_questions">Common questions</option>
 <option value="technical_support">Technical support</option>
 <option value="contribution">Contribution</option>
-<option value="request" onclick="window.open('//bbs.lfj.io/index.php?forums/bugs-suggestions.5/','_blank');return false;">Request to improve or add a feature</option>
-<option value="complaint" onclick="window.open('//bbs.lfj.io/index.php?forums/bugs-suggestions.5/','_blank');return false;">Complaint</option> 
+<option value="request" >Request to improve or add a feature</option>
+<option value="complaint">Complaint</option> 
 </select>
                         </label>
                                             </li>
