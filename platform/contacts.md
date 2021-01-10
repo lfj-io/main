@@ -11,7 +11,7 @@
                     <li>
                         <label>
                             <span class="name">Topic</span>
-                            <select required name="id_topic" onchange="if(this.selectedIndex !=2 && this.value !=3){window.open('//bbs.lfj.io/index.php?forums/bugs-suggestions.5/','_blank');return false;}">
+                            <select required name="id_topic" onchange="if(this.selectedIndex !=2 && this.selectedIndex !=3){window.open('//bbs.lfj.io/index.php?forums/bugs-suggestions.5/','_blank');return false;}">
 <option value="">Select topic</option>
 <option value="common_questions">Common questions</option>
 <option value="technical_support">Technical support</option>
