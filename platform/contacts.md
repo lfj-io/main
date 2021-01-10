@@ -11,12 +11,13 @@
                     <li>
                         <label>
                             <span class="name">Topic</span>
-                            <select name="id_topic">
-<option value="common_questions" selected="selected">Common questions</option>
+                            <select required name="id_topic">
+<option value="" selected="selected">Select topic</option>
+<option value="common_questions" onclick="window.open('//bbs.lfj.io/index.php?forums/bugs-suggestions.5/');return false;">Common questions</option>
 <option value="technical_support">Technical support</option>
 <option value="contribution">Contribution</option>
-<option value="request">Request to improve or add a feature</option>
-<option value="complaint">Complaint</option> 
+<option value="request"  onclick="window.open('//bbs.lfj.io/index.php?forums/bugs-suggestions.5/');return false;">Request to improve or add a feature</option>
+<option value="complaint"  onclick="window.open('//bbs.lfj.io/index.php?forums/bugs-suggestions.5/');return false;">Complaint</option> 
 </select>
                         </label>
                                             </li>
