@@ -17,7 +17,7 @@
 	"DIDNT_WORK":"根本用不了。",
 	"COMMENTONLY":"只是评论。",
 	"HOW_TO_TITLE":"什么是LFJ? 如何安装?",
-	"INSTALLFJ":"安装指南",
+	"INSTALLFJ":"单击链接",
 	"INSTALLFJL":"安装最新版本",
 	"HOW_TO_INSTALL_TXT":"第二步：要使用用LFJ脚本，您需要安装一个用户脚本管理器。我们支持所有的用户脚本管理器，但我们建议使用Violentmonkey",
 	"HOW_TO_INSTALL_3":"第三步：安装LFJ脚本",
