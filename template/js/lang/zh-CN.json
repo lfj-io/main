@@ -61,6 +61,8 @@
 	"PORNHUB_UNLOCK_E":"在pornhub上免费观看付费视频。",
 	"UNLOCK_YOUTUBE":"没有广告的油管",
 	"UNLOCK_YOUTUBE_E":"屏蔽油管上的广告…，看看<a href=\"javascript:void(0)\" onclick=\"centeredPopup('https://thewolds.github.io/video/?uri=jADpKwz74F865fV5Z5aJkA5HaQULUpXy0109exdVIcIwoZFZ4IZZO7I=&uz3=720&autoplay=true&ckapop=true', 'pornhuvPrd', 1024, 640, 'yes');\">它是如何工作的</a>。",
+	"HLS_DOWNLOADER":"M3U8-HLS-TS下載器",
+	"HLS_DOWNLOADER_E":"允许热键[ALT+H]来激活M3U8-HLS-TS下載器,这是一篇下载 M3U8 格式的在线视频的工具和自动合并切片(*.TS)文件，和AES-128加密自动解密，和多线程下载",
 	"UNLOCK_FACEBOOK":"没有广告的Facebook",
 	"UNLOCK_FACEBOOK_E":"屏蔽Facebook上的广告…，看看..",
 	"NO_TRAFFIC":"匿名流量",

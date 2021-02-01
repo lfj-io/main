@@ -61,6 +61,8 @@
 	"UNLOCK_9UU_E":"Xem miễn phí video premium tại 9uu.com.",
 	"UNLOCK_YOUTUBE":"Xoá quảng cáo Youtube",
 	"UNLOCK_YOUTUBE_E":"Một module đơn giản, nhẹ hơn adblock nhưng mang lại khả năng xoá quảng cáo tương tự adblock.., hãy xem <a href=\"javascript:void(0)\" onclick=\"centeredPopup('https://thewolds.github.io/video/?uri=jADpKwz74F865fV5Z5aJkA5HaQULUpXy0109exdVIcIwoZFZ4IZZO7I=&uz3=720&autoplay=true&ckapop=true', 'pornhuvPrd', 1024, 640, 'yes');\">cách mà nó hoạt động</a>",
+	"HLS_DOWNLOADER":"Trình tải video .m3u8/hls",
+	"HLS_DOWNLOADER_E":"Tính năng này cho phép bạn sử dụng tổ hợp phím [ALT+ H] để tải về các video có liên kết .m3u8/hls",
 	"UNLOCK_FACEBOOK":"Xoá quảng cáo Facebook",
 	"UNLOCK_FACEBOOK_E":"Loại bỏ các quảng cáo, tin tài trợ tại facebook..",
 	"VANCEDADB":"Bộ lọc chặn tuỳ biến",
