@@ -56,7 +56,7 @@ body {
 }
 body.dark{
 background: linear-gradient(290deg, #161616, #1a1a1a, #282f20, #1a1a1a);
-background-size: 400% 400%;
+background-size: 700% 700%;
 
 -webkit-animation: hkbgsx 17s ease infinite;
 -moz-animation: hkbgsx 17s ease infinite;
