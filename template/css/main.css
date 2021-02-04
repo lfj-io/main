@@ -98,7 +98,7 @@ div.install{margin-top:0.2em; display: block;text-align: center;}
 h2.install{
     margin-top: 1em !important;
     margin: 0 auto;
-    border: 1px solid #91d7c921!important;
+    border: 1px solid #91d7c921 !important;
     box-sizing: inherit;
     background: #0e824996;
     padding: 7px;
@@ -115,6 +115,13 @@ h2.install:hover {
 background: #00889142;
 }
 h2.install span{color: bisque;}
+.green h2.install{
+	background: #722932d6  !important;
+	border: 1px solid #1c524673 !important;
+}
+.green h2.install:hover {
+background: #722932 !important;
+}
 
 a{    color: #0380b4;}
 .notiable{
