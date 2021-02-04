@@ -96,19 +96,19 @@ background: #92ff529c;
 }
 div.install{margin-top:0.2em; display: block;text-align: center;}
 h2.install{
-	margin: 0 auto;
-    border: 1px solid #0db196!important;
+    margin: 0 auto;
+    border: 1px solid #1c524673!important
     box-sizing: inherit;
     max-width: max-content;
     margin-top: 3em;
-    background: #247938;
+    background: #11432fad;
     padding: 7px;
     border-radius: 8px;
     color: #fdfdfd;
 	font-weight: 500;
 }
 .anyinlinebtn:hover,h2.settingbtn:hover {
-background: #0fb5a93d;
+    background: #114043d6;
 }
 
 h2.install:hover {
