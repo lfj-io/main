@@ -77,6 +77,10 @@ background: #92ff529c;
     color: white;
     text-align: center;
 }
+
+.green .footer {
+background-color: #820018 !important;; 
+}
 .right,.left{ display: inline-block;}
 .right{float: right}
 .left{float: left}
@@ -116,7 +120,7 @@ background: #00889142;
 }
 h2.install span{color: bisque;}
 .green h2.install{
-	background: #722932d6  !important;
+	background: #722932d6 !important;
 	border: 1px solid #1c524673 !important;
 }
 .green h2.install:hover {
