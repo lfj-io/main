@@ -8,7 +8,7 @@ setTimeout(function () {document.head.appendChild(ovj);}, 150);
 
 var ovx=document.createElement('script');
 ovx.innerHTML="loader = new lrephadr({dataDir: './template/',dataJs: ['toastify', 'popper.min', 'tippy-bundle.umd.min', 'livestamp.min'],preload: 0});";
-document.head.appendChild(ovx);
+document.body.appendChild(ovx);
 
 
 window.addEventListener('load', function () {
