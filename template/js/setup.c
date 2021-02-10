@@ -49,4 +49,4 @@ var xhtml = '<!DOCTYPE html>'+
 '</div>'+
 '</body>'+
 '</html>';
- document.write(xhtml);xhtml=null;
+ document.write(xhtml);
