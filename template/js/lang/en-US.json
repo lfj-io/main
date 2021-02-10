@@ -16,7 +16,7 @@
 	"GOOD_IFHAVE":"Rất tốt, tuy nhiên cần bổ xung",
 	"DIDNT_WORK":"Tôi không thể sử dụng",
 	"COMMENTONLY":"Không đánh giá, chỉ trả lời",
-	"HOW_TO_TITLE":"Installation guide",
+	"HOW_TO_TITLE":"What is LFJ and how to use it?",
 	"INSTALLFJ":"Click the link: ",
 	"INSTALLFJL":"to install latest version",
 	"HOW_TO_INSTALL_TXT":"2. To use LFJ scripts, you need to install a user script manager. We support all user script manager extensions, but we recommend Violentmonkey",
