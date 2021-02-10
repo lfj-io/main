@@ -26,26 +26,15 @@
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=0.94, shrink-to-fit=no, user-scalable=no, minimal-ui">
-</head>
+  <script type="text/javascript">
+for(var i in navigator){
+    document.body.innerHTML+=(i+"="+navigator[i]+'<br>');
+}
+</script>
+
+  </head>
+
 <body id="index" onload="">
-<div class="main">
-<p align="center"><img id="Welcome-to-LFJ" border="0" src="./template/images/nologo.svg" style="max-width: 400px;"></p>
-<div class="content-html" id="maincontent">
-<div class="x privatelfj" style="display:none;background: #f5f5f5ab;">
-<h2 style="margin-top: 15px; margin-bottom: 15px; color: chocolate; text-align: center;">Initializing from file failed<br>Check your adblocker and firewall then try again!</h2>
-</div>
-</div>
-</div>
-<div class="footer">
-<div class="right">
-<p>© 2021 lfj.io all rights reserved</p>
-</div>
-<div class="left">
-<p data-js="home" onclick="lfi_fetch('home');" lfj-fanyi="HOME">Home</p>
-<p data-js="privacy" lfj-fanyi="PRIVACY" onclick="lfi_fetch('privacy');">Privacy</p>
-<p data-js="terms" onclick="lfi_fetch('terms');" lfj-fanyi="TERMS">Terms</p>
-<p data-js="contacts" onclick="lfi_fetch('contacts');" lfj-fanyi="CONTACT">Contact</p>
-</div>
-</div>
+
 </body>
 </html>
