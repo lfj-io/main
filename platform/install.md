@@ -10,11 +10,11 @@
 		</ul>
 	<h4 lfj-fanyi="HOW_TO_INSTALL_TXT">2. All userscript manager will be also support, but we recommend Violentmonkey</h4>
 		<ul>
-			<li>Chrome & Kiwi:<a href="https://chrome.google.com/webstore/detail/violent-monkey/jinjaccalgkegednnccohejagnlnfdag" rel="nofollow" target="_blank">Violentmonkey</a></li>
-			<li>Firefox: <a href="https://addons.mozilla.org/firefox/addon/violentmonkey/" rel="nofollow" target="_blank">Violentmonkey</a>
-			<li>Safari: <a href="http://tampermonkey.net/?browser=safari" rel="nofollow" target="_blank">Tampermonkey</a> <span lfj-fanyi="OR">or</span> <a rel="nofollow" target="_blank" href="https://apps.apple.com/app/userscripts/id1463298887">Userscripts</a></li>
-			<li>Microsoft Edge: <a href="https://microsoftedge.microsoft.com/addons/detail/%E6%9A%B4%E5%8A%9B%E7%8C%B4/eeagobfjdenkkddmbclomhiblgggliao" rel="nofollow" target="_blank">Violentmonkey</a></li>
-			<li>Opera: <a href="https://violentmonkey.github.io/get-it/" rel="nofollow" target="_blank">Violentmonkey</a>
+			<li class="winchrome">Chrome & Edge:<a href="https://chrome.google.com/webstore/detail/violent-monkey/jinjaccalgkegednnccohejagnlnfdag" rel="nofollow" target="_blank">Violentmonkey</a></li>
+			<li  style="display:none;" class="macfirefox">Firefox: <a href="https://addons.mozilla.org/firefox/addon/violentmonkey/" rel="nofollow" target="_blank">Violentmonkey</a>
+			<li  style="display:none;" class="iossafari">Safari: <a href="http://tampermonkey.net/?browser=safari" rel="nofollow" target="_blank">Tampermonkey</a> <span lfj-fanyi="OR">or</span> <a rel="nofollow" target="_blank" href="https://apps.apple.com/app/userscripts/id1463298887">Userscripts</a></li>
+			<li  style="display:none;" class="winedge">Microsoft Edge: <a href="https://microsoftedge.microsoft.com/addons/detail/%E6%9A%B4%E5%8A%9B%E7%8C%B4/eeagobfjdenkkddmbclomhiblgggliao" rel="nofollow" target="_blank">Violentmonkey</a></li>
+			<li  style="display:none;" class="winopera">Opera: <a href="https://violentmonkey.github.io/get-it/" rel="nofollow" target="_blank">Violentmonkey</a>
 		</ul>
 	<h4 lfj-fanyi="HOW_TO_INSTALL_3">3. Install LFJ script</h4>
 		<ul>
