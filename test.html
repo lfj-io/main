@@ -5,9 +5,12 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=0.94, shrink-to-fit=no, user-scalable=no, minimal-ui">
   <script type="text/javascript">
+document.addEventListener("DOMContentLoaded", () => {
+
 for(var i in navigator){
     document.body.innerHTML+=(i+"="+navigator[i]+'<br>');
 }
+})
 </script>
 
   </head>
