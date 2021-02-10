@@ -83,7 +83,7 @@
 	"WAITFOR_B":"ms, then close.",
 	"WAITFOR_E":"Set maximum execution time LFJ wait for download url to fetched, then forced to close tab (slow connection need longer time to execute script), this settings work at supported file hosting, <span style=\"color:cyan;\" onclick=\"lfi_fetch('work');\">check list here</span> ...",
 	"ADBLOCKCUSTOM":"LFJ allows to block any element/javascript scripts that annoyed you. Just create custom block filter for website you want to visit, then share it, or import available filters from LFJ libraries that other users have shared.  view <a href='https://thewolds.github.io/video/?ckapop=true&uri=8AJ4OFnQuF92GglmiIShmMO7+YMNIh7urGMe6ZO8i+aapYpM+IPa+9M=&autoplay=true'  target='_blank'>quick start guide</a>, or <a target='_blank' href='/template/manual_en.pdf'>documentation</a>",
-	"ADD_DOMAIN":"If your preferred name is not listed, just <a href='https://bbs.lfj.io/index.php?threads/25/' style=\"color:cyan;\"  target='_blank'>add them</a> to the list.",
+	"ADD_DOMAIN":"If your preferred name is not listed, just <a onclick=\"lfi_fetch('contacts');\" style=\"color:cyan;\"  >add them</a> to the list.",
 	"VANCED_HELPER":"Vanced helper tools",
 	"CLIPBROAD_U":"Upload from clipbroard (2)",
 	"CLIPBROAD_U_E":"(2) Upload clipboard image with Ctrl+V/Paste shortcut in everywhere. ",
